@@ -30,7 +30,7 @@ test.describe('Login Tests', () => {
   test.skip('Negative Login Test - Invalid Password', async ({ page }) => {
     await loginPage.login('student', 'incorrectPassword');
 
-    // Verify error message testing
+    // Verify error message testing new
     await expect(loginPage.errorMessage).toBeVisible();
     await expect(loginPage.errorMessage).toHaveText('Your password is invalid!');
   });
