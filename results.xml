@@ -1,0 +1,13 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="91.21190999999999">
+<testsuite name="rev.spec.js" timestamp="2026-01-27T13:52:48.200Z" hostname="chromium" tests="1" failures="0" skipped="0" time="76.974" errors="0">
+<testcase name="launch url" classname="rev.spec.js" time="76.974">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\rev-launch-url-chromium\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\rev-launch-url-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

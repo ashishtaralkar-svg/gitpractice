@@ -1,0 +1,1160 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - link "Flipkart" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Flipkart" [ref=e11]
+      - link "Explore Plus" [ref=e12] [cursor=pointer]:
+        - /url: /plus
+        - text: Explore Plus
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - textbox "Search for products, brands and more" [ref=e18]
+      - button [ref=e19] [cursor=pointer]:
+        - img [ref=e20]
+    - link "Login" [ref=e28] [cursor=pointer]:
+      - /url: /account/login?ret=/mobile-phones-store%3Fparam%3D4111%26fm%3Dneo%252Fmerchandising%26iid%3DM_f1c2f1c4-0986-40f0-8922-72d78293b2cb_1_X1NCR146KC29_MC.AH1NTIJZ241Z%26cid%3DAH1NTIJZ241Z
+    - link "Become a Seller" [ref=e30] [cursor=pointer]:
+      - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+      - generic [ref=e31]: Become a Seller
+    - generic [ref=e33] [cursor=pointer]:
+      - generic [ref=e34]:
+        - generic [ref=e36]: More
+        - list [ref=e41]:
+          - listitem [ref=e42]:
+            - link "Notification Preferences" [ref=e43]:
+              - /url: /communication-preferences/push?t=all
+              - img [ref=e44]
+              - generic [ref=e48]: Notification Preferences
+          - listitem [ref=e49]:
+            - link "24x7 Customer Care" [ref=e50]:
+              - /url: /helpcentre
+              - img [ref=e51]
+              - generic [ref=e54]: 24x7 Customer Care
+          - listitem [ref=e55]:
+            - link "Advertise" [ref=e56]:
+              - /url: https://advertising.flipkart.com/?otracker=ch_vn_advertise_header
+              - img [ref=e57]
+              - generic [ref=e60]: Advertise
+          - listitem [ref=e61]:
+            - link "Download App" [ref=e62]:
+              - /url: /mobile-apps?otracker=ch_vn_mobile_apps
+              - img [ref=e63]
+              - generic [ref=e67]: Download App
+      - img [ref=e68]
+    - link "Cart" [ref=e73] [cursor=pointer]:
+      - /url: /viewcart?exploreMode=true&preference=FLIPKART
+      - img [ref=e74]
+      - generic [ref=e76]: Cart
+  - generic [ref=e81]:
+    - generic [ref=e82] [cursor=pointer]:
+      - text: Electronics
+      - img [ref=e83]
+    - generic [ref=e85] [cursor=pointer]:
+      - text: TVs & Appliances
+      - img [ref=e86]
+    - generic [ref=e88] [cursor=pointer]:
+      - text: Men
+      - img [ref=e89]
+    - generic [ref=e91] [cursor=pointer]:
+      - text: Women
+      - img [ref=e92]
+    - generic [ref=e94] [cursor=pointer]:
+      - text: Baby & Kids
+      - img [ref=e95]
+    - generic [ref=e97] [cursor=pointer]:
+      - text: Home & Furniture
+      - img [ref=e98]
+    - generic [ref=e100] [cursor=pointer]:
+      - text: Sports, Books & More
+      - img [ref=e101]
+    - link "Flights" [ref=e103] [cursor=pointer]:
+      - /url: /travel/flights?otracker=nmenu_Flights
+    - link "Offer Zone" [ref=e104] [cursor=pointer]:
+      - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+  - generic [ref=e105]:
+    - generic [ref=e106]:
+      - heading "Mobile Phones" [level=1] [ref=e107]
+      - generic [ref=e109]:
+        - paragraph [ref=e110]: Mobile phones are no more merely a part of our lives. Whether it's to stay connected with friends and family or to keep abreast of important developments around the world, mobiles are no longer for sending a text or making a call. From budget to state-of-the-art smartphones; indigenous names to global big-wigs - a whole universe of mobiles await you on Flipkart. Whether you’re looking for waterdrop notch screens, a high screen to body ratio, AI-powered sensational cameras, high storage capacity, blazing quick processing engines or reflective glass designs, rest assured you won’t have to venture anywhere else for your smartphone needs.
+        - paragraph [ref=e111]:
+          - link "REDMI Note 14 Pro+ 5G" [ref=e112] [cursor=pointer]:
+            - /url: /redmi-note-14-pro-5g-spectre-blue-128-gb/p/itm7fa24a152cbc9
+          - text: "|"
+          - link "iPhone 16" [ref=e113] [cursor=pointer]:
+            - /url: /apple-iphone-16-white-128-gb/p/itm7c0281cd247be
+          - text: "|"
+          - link "Vivo x 100" [ref=e114] [cursor=pointer]:
+            - /url: /vivo-x100-asteroid-black-256-gb/p/itm60fe0113c39cb
+          - text: "|"
+          - link "OPPO Find X8" [ref=e115] [cursor=pointer]:
+            - /url: /oppo-find-x8-5g-space-black-512-gb/p/itm0e193d19d23ff
+          - text: "|"
+          - link "Pixel 7a" [ref=e116] [cursor=pointer]:
+            - /url: /google-pixel-7a-sea-128-gb/p/itmb4d7b100b1a4d
+          - text: "|"
+          - link "Moto Edge 40" [ref=e117] [cursor=pointer]:
+            - /url: /motorola-edge-40-jet-black-256-gb/p/itmbe5b18bf1f229
+          - text: "|"
+          - link "POCO C55" [ref=e118] [cursor=pointer]:
+            - /url: /poco-c55-cool-blue-64-gb/p/itm166c52f5d5dc0
+          - text: "|"
+          - link "Samsung Galaxy S24 5G" [ref=e119] [cursor=pointer]:
+            - /url: /samsung-galaxy-s24-5g-snapdragon-onyx-black-128-gb/p/itm3469a7107606f
+        - paragraph [ref=e120]
+        - paragraph [ref=e121]:
+          - text: Also Check out the
+          - link "Exchange offers on Mobile Phone" [ref=e122] [cursor=pointer]:
+            - /url: /exchange-store
+          - text: .
+    - generic [ref=e126]:
+      - img "DT-RD-Sale-Header" [ref=e127]
+      - img "DT-RD-Sale-Header" [ref=e128]
+    - generic [ref=e129]:
+      - generic [ref=e131]:
+        - generic [ref=e134]: Filters
+        - generic [ref=e136]:
+          - generic [ref=e137]: CATEGORIES
+          - generic [ref=e139]:
+            - img [ref=e141] [cursor=pointer]
+            - link "Mobiles & Accessories" [ref=e143] [cursor=pointer]:
+              - /url: /mobiles-accessories/pr?sid=tyy&otracker=categorytree
+          - generic [ref=e145]:
+            - img [ref=e147] [cursor=pointer]
+            - link "Mobiles" [ref=e149] [cursor=pointer]:
+              - /url: /mobiles/pr?sid=tyy,4io&otracker=categorytree
+        - generic [ref=e150]:
+          - generic [ref=e151] [cursor=pointer]:
+            - generic [ref=e152]: Brand
+            - img [ref=e153]
+          - generic [ref=e155]:
+            - generic [ref=e156]:
+              - generic [ref=e157]:
+                - img [ref=e158]
+                - textbox "Search Brand" [ref=e162]
+              - generic "Apple" [ref=e163] [cursor=pointer]:
+                - generic [ref=e167]: Apple
+              - generic "Google" [ref=e168] [cursor=pointer]:
+                - generic [ref=e172]: Google
+              - generic "MOTOROLA" [ref=e173] [cursor=pointer]:
+                - generic [ref=e177]: MOTOROLA
+              - generic "vivo" [ref=e178] [cursor=pointer]:
+                - generic [ref=e182]: vivo
+              - generic "OPPO" [ref=e183] [cursor=pointer]:
+                - generic [ref=e187]: OPPO
+              - generic "Infinix" [ref=e188] [cursor=pointer]:
+                - generic [ref=e192]: Infinix
+            - generic [ref=e193] [cursor=pointer]: 136 MORE
+        - generic [ref=e194]:
+          - generic [ref=e195] [cursor=pointer]:
+            - generic [ref=e196]: RAM
+            - img [ref=e197]
+          - generic [ref=e200]:
+            - generic "4 GB" [ref=e201] [cursor=pointer]:
+              - generic [ref=e205]: 4 GB
+            - generic "3 GB" [ref=e206] [cursor=pointer]:
+              - generic [ref=e210]: 3 GB
+            - generic "2 GB" [ref=e211] [cursor=pointer]:
+              - generic [ref=e215]: 2 GB
+            - generic "1GB and Below" [ref=e216] [cursor=pointer]:
+              - generic [ref=e220]: 1GB and Below
+            - generic "8 GB and Above" [ref=e221] [cursor=pointer]:
+              - generic [ref=e225]: 8 GB and Above
+            - generic "6 GB" [ref=e226] [cursor=pointer]:
+              - generic [ref=e230]: 6 GB
+        - generic [ref=e232] [cursor=pointer]:
+          - generic [ref=e233]: Network Type
+          - img [ref=e234]
+        - generic [ref=e237] [cursor=pointer]:
+          - generic [ref=e238]: Internal Storage
+          - img [ref=e239]
+        - generic [ref=e242] [cursor=pointer]:
+          - generic [ref=e243]: Type
+          - img [ref=e244]
+        - generic [ref=e247] [cursor=pointer]:
+          - generic [ref=e248]: Processor Brand
+          - img [ref=e249]
+        - generic [ref=e252] [cursor=pointer]:
+          - generic [ref=e253]: Clock Speed
+          - img [ref=e254]
+        - generic [ref=e257] [cursor=pointer]:
+          - generic [ref=e258]: Operating System
+          - img [ref=e259]
+        - generic [ref=e262] [cursor=pointer]:
+          - generic [ref=e263]: Battery Capacity
+          - img [ref=e264]
+        - generic [ref=e267] [cursor=pointer]:
+          - generic [ref=e268]: Resolution Type
+          - img [ref=e269]
+        - generic [ref=e272] [cursor=pointer]:
+          - generic [ref=e273]: Speciality
+          - img [ref=e274]
+        - generic [ref=e277] [cursor=pointer]:
+          - generic [ref=e278]: Sim Type
+          - img [ref=e279]
+        - generic [ref=e282] [cursor=pointer]:
+          - generic [ref=e283]: Screen Size
+          - img [ref=e284]
+        - generic [ref=e287] [cursor=pointer]:
+          - generic [ref=e288]: Number of Cores
+          - img [ref=e289]
+        - generic [ref=e292] [cursor=pointer]:
+          - generic [ref=e293]: Operating System Version Name
+          - img [ref=e294]
+        - generic [ref=e296]:
+          - generic [ref=e298]: Price
+          - generic [ref=e314]:
+            - generic [ref=e315]: .
+            - generic [ref=e316]: .
+            - generic [ref=e317]: .
+            - generic [ref=e318]: .
+            - generic [ref=e319]: .
+            - generic: .
+          - generic [ref=e320]:
+            - combobox [ref=e322]:
+              - option "Min" [selected]
+              - option "₹10000"
+              - option "₹15000"
+              - option "₹20000"
+              - option "₹30000"
+            - generic [ref=e323]: to
+            - combobox [ref=e325]:
+              - option "₹10000"
+              - option "₹15000"
+              - option "₹20000"
+              - option "₹30000"
+              - option "₹30000+" [selected]
+        - generic [ref=e326]:
+          - generic [ref=e327] [cursor=pointer]:
+            - generic [ref=e328]: Discount
+            - img [ref=e329]
+          - generic [ref=e332]:
+            - generic "50% or more" [ref=e333] [cursor=pointer]:
+              - generic [ref=e337]: 50% or more
+            - generic "40% or more" [ref=e338] [cursor=pointer]:
+              - generic [ref=e342]: 40% or more
+            - generic "30% or more" [ref=e343] [cursor=pointer]:
+              - generic [ref=e347]: 30% or more
+            - generic "20% or more" [ref=e348] [cursor=pointer]:
+              - generic [ref=e352]: 20% or more
+            - generic "10% or more" [ref=e353] [cursor=pointer]:
+              - generic [ref=e357]: 10% or more
+        - generic [ref=e359] [cursor=pointer]:
+          - generic [ref=e360]: Customer Ratings
+          - img [ref=e361]
+        - generic [ref=e363]:
+          - img [ref=e368] [cursor=pointer]
+          - generic [ref=e370] [cursor=pointer]: "?"
+        - generic [ref=e372] [cursor=pointer]:
+          - generic [ref=e373]: Primary Camera
+          - img [ref=e374]
+        - generic [ref=e377] [cursor=pointer]:
+          - generic [ref=e378]: Secondary Camera
+          - img [ref=e379]
+        - generic [ref=e382] [cursor=pointer]:
+          - generic [ref=e383]: Features
+          - img [ref=e384]
+        - generic [ref=e386]:
+          - generic [ref=e387] [cursor=pointer]:
+            - generic [ref=e388]: Offers
+            - img [ref=e389]
+          - generic [ref=e392]:
+            - generic "Special Price" [ref=e393] [cursor=pointer]:
+              - generic [ref=e397]: Special Price
+            - generic "Buy More, Save More" [ref=e398] [cursor=pointer]:
+              - generic [ref=e402]: Buy More, Save More
+            - generic "No Cost EMI" [ref=e403] [cursor=pointer]:
+              - generic [ref=e407]: No Cost EMI
+        - generic [ref=e409] [cursor=pointer]:
+          - generic [ref=e410]: GST Invoice Available
+          - img [ref=e411]
+        - generic [ref=e414] [cursor=pointer]:
+          - generic [ref=e415]: Availability
+          - img [ref=e416]
+      - generic [ref=e418]:
+        - generic [ref=e422]:
+          - img "sa" [ref=e423]
+          - img "sa" [ref=e424]
+        - link "vivo-X200T-CLP-PL-EB vivo-X200T-CLP-PL-EB" [ref=e428] [cursor=pointer]:
+          - /url: /vivo-x200t-seaside-lilac-256-gb/p/itm1b8452d68859b?pid=MOBHJK5M62ZH9FAM&param=56725&otracker=clp_bannerads_1_6.bannerAdCard.BANNERADS_vivo-X200T-CLP-PL-EB_mobile-phones-store_TYC0OOIMUN4E
+          - generic [ref=e429]:
+            - img "vivo-X200T-CLP-PL-EB" [ref=e430]
+            - img "vivo-X200T-CLP-PL-EB" [ref=e431]
+        - generic [ref=e435]:
+          - img "a" [ref=e436]
+          - img "a" [ref=e437]
+        - link "d d" [ref=e441] [cursor=pointer]:
+          - /url: /motorola-signature-pantone-martini-olive-256-gb/p/itm945fffeb4a94c?pid=MOBHGVJYTCM8BZQF&param=10923&otracker=clp_bannerads_1_8.bannerAdCard.BANNERADS_d_mobile-phones-store_YMWX0GGY9TL1
+          - generic [ref=e442]:
+            - img "d" [ref=e443]
+            - img "d" [ref=e444]
+        - generic [ref=e448]:
+          - img "m" [ref=e449]
+          - img "m" [ref=e450]
+        - link "vb vb" [ref=e454] [cursor=pointer]:
+          - /url: /realme-coming-soon-26-store?param=1876&otracker=clp_bannerads_1_10.bannerAdCard.BANNERADS_vb_mobile-phones-store_P9LDHXO78HPI
+          - generic [ref=e455]:
+            - img "vb" [ref=e456]
+            - img "vb" [ref=e457]
+        - generic [ref=e461]:
+          - img "a" [ref=e462]
+          - img "a" [ref=e463]
+        - generic [ref=e465]:
+          - link "m m" [ref=e467] [cursor=pointer]:
+            - /url: /tyy/4io/~cs-9r6b9cu68a/pr?sid=tyy,4io&collection-tab-name=Apple+iPhone+17&pageCriteria=default&param=7499&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e468]:
+              - img "m" [ref=e469]
+              - img "m" [ref=e470]
+          - link "m m" [ref=e472] [cursor=pointer]:
+            - /url: /samsung-galaxy-s24-5g-snapdragon-onyx-black-128-gb/p/itm3469a7107606f?pid=MOBHDVFKSSHPUYHB&lid=LSTMOBHDVFKSSHPUYHBXUF3VR&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e473]:
+              - img "m" [ref=e474]
+              - img "m" [ref=e475]
+          - link "m m" [ref=e477] [cursor=pointer]:
+            - /url: /motorola-edge-70-pantone-bronze-green-256-gb/p/itmc5fb119ade9e5?pid=MOBHHWX6CZUZFKBP&lid=LSTMOBHHWX6CZUZFKBPB8NEDK&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e478]:
+              - img "m" [ref=e479]
+              - img "m" [ref=e480]
+        - generic [ref=e482]:
+          - link "bn bn" [ref=e484] [cursor=pointer]:
+            - /url: /google-pixel-9a-porcelain-256-gb/p/itmfe749ceddac9a?pid=MOBH9YME35EYPV4K&lid=LSTMOBH9YME35EYPV4K5K7UZW&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e485]:
+              - img "bn" [ref=e486]
+              - img "bn" [ref=e487]
+          - link "n n" [ref=e489] [cursor=pointer]:
+            - /url: /apple-iphone-16-black-128-gb/p/itmb07d67f995271?pid=MOBH4DQFG8NKFRDY&lid=LSTMOBH4DQFG8NKFRDYKOOGZ6&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e490]:
+              - img "n" [ref=e491]
+              - img "n" [ref=e492]
+          - link "bn bn" [ref=e494] [cursor=pointer]:
+            - /url: /poco-f7-5g-phantom-black-256-gb/p/itm632bdcafce49a?pid=MOBHCY2UG9GJJGCM&lid=LSTMOBHCY2UG9GJJGCMSAJ7IM&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e495]:
+              - img "bn" [ref=e496]
+              - img "bn" [ref=e497]
+        - generic [ref=e499]:
+          - link "bn bn" [ref=e501] [cursor=pointer]:
+            - /url: /nothing-phone-3-black-512-gb/p/itm0c32a18b0df8a?pid=MOBHCY4CQEDRTHGS&lid=LSTMOBHCY4CQEDRTHGSP6LCGK&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e502]:
+              - img "bn" [ref=e503]
+              - img "bn" [ref=e504]
+          - link "vbn vbn" [ref=e506] [cursor=pointer]:
+            - /url: /vivo-t4-ultra-5g-phoenix-gold-256-gb/p/itm9cfd8118c9ce0?pid=MOBHCJMRHSP2HPZZ&lid=LSTMOBHCJMRHSP2HPZZ3KHQDL&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e507]:
+              - img "vbn" [ref=e508]
+              - img "vbn" [ref=e509]
+          - link "bn bn" [ref=e511] [cursor=pointer]:
+            - /url: /samsung-galaxy-s25-plus-5g-navy-256-gb/p/itm5d4bdb068f418?pid=MOBH8K8UFKWSTMHA&lid=LSTMOBH8K8UFKWSTMHA03MBZS&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e512]:
+              - img "bn" [ref=e513]
+              - img "bn" [ref=e514]
+        - generic [ref=e518]:
+          - img "a" [ref=e519]
+          - img "a" [ref=e520]
+        - generic [ref=e522]:
+          - link "a a" [ref=e524] [cursor=pointer]:
+            - /url: /motorola-edge-60-fusion-5g-pantone-amazonite-256-gb/p/itm9218b12ff853f?pid=MOBH9ARFPVNU7QNU&lid=LSTMOBH9ARFPVNU7QNU36Q1QX&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e525]:
+              - img "a" [ref=e526]
+              - img "a" [ref=e527]
+          - link "a a" [ref=e529] [cursor=pointer]:
+            - /url: /oppo-k13x-5g-6000mah-45w-supervooc-charger-ai-midnight-violet-128-gb/p/itm62b2e62fbb43e?pid=MOBHDY9P4XGWMRHM&lid=LSTMOBHDY9P4XGWMRHMJEHFNR&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e530]:
+              - img "a" [ref=e531]
+              - img "a" [ref=e532]
+          - link "a a" [ref=e534] [cursor=pointer]:
+            - /url: /vivo-t4r-5g-twilight-blue-256-gb/p/itm3a5653667cb9c?pid=MOBHE49GFMXQ5QEG&lid=LSTMOBHE49GFMXQ5QEGZPB4G9&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e535]:
+              - img "a" [ref=e536]
+              - img "a" [ref=e537]
+        - generic [ref=e539]:
+          - link "d d" [ref=e541] [cursor=pointer]:
+            - /url: /nothing-phone-3a-pro-grey-128-gb/p/itm04daaef6652d4?pid=MOBH8G3PTSQZDGGM&lid=LSTMOBH8G3PTSQZDGGME6MTMY&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e542]:
+              - img "d" [ref=e543]
+              - img "d" [ref=e544]
+          - link "s s" [ref=e546] [cursor=pointer]:
+            - /url: /motorola-g96-5g-pantone-ashleigh-blue-256-gb/p/itmda6d829eead4b?pid=MOBHB3SZWPZTFFEE&lid=LSTMOBHB3SZWPZTFFEECZ5ZOS&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e547]:
+              - img "s" [ref=e548]
+              - img "s" [ref=e549]
+          - link "d d" [ref=e551] [cursor=pointer]:
+            - /url: /samsung-galaxy-f36-5g-violet-128-gb/p/itm85ca200fd55e9?pid=MOBHDFVTH22ZAZXZ&lid=LSTMOBHDFVTH22ZAZXZMFVJDX&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e552]:
+              - img "d" [ref=e553]
+              - img "d" [ref=e554]
+        - generic [ref=e556]:
+          - link "e e" [ref=e558] [cursor=pointer]:
+            - /url: /motorola-edge-60-pro-pantone-shadow-256-gb/p/itme4f8c6dd0e2db?pid=MOBH9C9JBE7X4H8H&lid=LSTMOBH9C9JBE7X4H8HWHFJKC&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e559]:
+              - img "e" [ref=e560]
+              - img "e" [ref=e561]
+          - link "d d" [ref=e563] [cursor=pointer]:
+            - /url: /cmf-nothing-phone-2-pro-white-128-gb/p/itm46a119f176627?pid=MOBHAUHAEYXGMWMY&lid=LSTMOBHAUHAEYXGMWMYQAMRLL&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e564]:
+              - img "d" [ref=e565]
+              - img "d" [ref=e566]
+          - link "s s" [ref=e568] [cursor=pointer]:
+            - /url: /vivo-t4-pro-5g-blaze-gold-256-gb/p/itm4da1824b696d9?pid=MOBHF4F9YFEME9AY&lid=LSTMOBHF4F9YFEME9AYJ2JEFW&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e569]:
+              - img "s" [ref=e570]
+              - img "s" [ref=e571]
+        - generic [ref=e575]:
+          - img "RD-Sale-DT-Budget-phones-hdr" [ref=e576]
+          - img "RD-Sale-DT-Budget-phones-hdr" [ref=e577]
+        - generic [ref=e579]:
+          - link "Oppo-K13X 5G Oppo-K13X 5G" [ref=e581] [cursor=pointer]:
+            - /url: /oppo-k13x-5g-6000mah-45w-supervooc-charger-ai-midnight-violet-128-gb/p/itm62b2e62fbb43e?pid=MOBHDY9P4XGWMRHM&lid=LSTMOBHDY9P4XGWMRHMJEHFNR&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e582]:
+              - img "Oppo-K13X 5G" [ref=e583]
+              - img "Oppo-K13X 5G" [ref=e584]
+          - link "Moto-G57-Power Moto-G57-Power" [ref=e586] [cursor=pointer]:
+            - /url: /motorola-g57-power-5g-pantone-corsair-128-gb/p/itm9b745f1e67b5c?pid=MOBHGRFE8WBGKSKY&lid=LSTMOBHGRFE8WBGKSKYEYKWBJ&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e587]:
+              - img "Moto-G57-Power" [ref=e588]
+              - img "Moto-G57-Power" [ref=e589]
+          - link "Realme-P4 5g Realme-P4 5g" [ref=e591] [cursor=pointer]:
+            - /url: /realme-p4-5g-steel-grey-128-gb/p/itmf836e6de035a5?pid=MOBHERXF2RUHQMXE&lid=LSTMOBHERXF2RUHQMXERDGMNE&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e592]:
+              - img "Realme-P4 5g" [ref=e593]
+              - img "Realme-P4 5g" [ref=e594]
+        - generic [ref=e596]:
+          - link "w w" [ref=e598] [cursor=pointer]:
+            - /url: /vivo-t4x-5g-pronto-purple-128-gb/p/itm017656bdd097b?pid=MOBH9JUSZFBNVDXM&lid=LSTMOBH9JUSZFBNVDXMQY4SVC&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e599]:
+              - img "w" [ref=e600]
+              - img "w" [ref=e601]
+          - link "a a" [ref=e603] [cursor=pointer]:
+            - /url: /motorola-g35-5g-midnight-black-128-gb/p/itmd43b3633669c4?pid=MOBHFNAZ9Y54W9ZE&lid=LSTMOBHFNAZ9Y54W9ZEE8A4PR&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e604]:
+              - img "a" [ref=e605]
+              - img "a" [ref=e606]
+          - link "s s" [ref=e608] [cursor=pointer]:
+            - /url: /poco-c75-5g-aqua-bliss-64-gb/p/itm10b3f6f1bc616?pid=MOBH7443MMBCWPPG&lid=LSTMOBH7443MMBCWPPGVOR2LC&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e609]:
+              - img "s" [ref=e610]
+              - img "s" [ref=e611]
+        - generic [ref=e613]:
+          - link "d d" [ref=e615] [cursor=pointer]:
+            - /url: /realme-p3x-5g-midnight-blue-128-gb/p/itmab5a4b09b6ccc?pid=MOBH8VGV88UADK2Z&lid=LSTMOBH8VGV88UADK2ZH101KQ&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e616]:
+              - img "d" [ref=e617]
+              - img "d" [ref=e618]
+          - link "d d" [ref=e620] [cursor=pointer]:
+            - /url: /samsung-galaxy-f06-5g-bahama-blue-64-gb/p/itma2920c68b7fc8?pid=MOBHBF5JDCSG2TVD&lid=LSTMOBHBF5JDCSG2TVDZWHXAM&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e621]:
+              - img "d" [ref=e622]
+              - img "d" [ref=e623]
+          - link "d d" [ref=e625] [cursor=pointer]:
+            - /url: /poco-c71-cool-blue-64-gb/p/itm7a3f787718dd8?pid=MOBHAFVJJ7YTUYV8&lid=LSTMOBHAFVJJ7YTUYV8NFU7XU&otracker=CLP_BannerX3&fm=organic&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983
+            - generic [ref=e626]:
+              - img "d" [ref=e627]
+              - img "d" [ref=e628]
+        - generic [ref=e632]:
+          - img "e" [ref=e633]
+          - img "e" [ref=e634]
+        - link "a a" [ref=e638] [cursor=pointer]:
+          - /url: /tyy/4io/~cs-2hbcmfpb87/pr?sid=tyy%2C4io&collection-tab-name=realme+p3+lite+colour+launch&pageCriteria=default&otracker=clp_bannerads_1_25.bannerAdCard.BANNERADS_a_mobile-phones-store_MA1IYB8BJ2IU
+          - generic [ref=e639]:
+            - img "a" [ref=e640]
+            - img "a" [ref=e641]
+        - generic [ref=e643]:
+          - generic [ref=e644]:
+            - link "a a" [ref=e647] [cursor=pointer]:
+              - /url: /realme-16-pro-5g-master-gold-256-gb/p/itmf8e5c193facd1?pid=MOBHGT68YJGMF89K&param=7709&otracker=clp_bannerads_2_26.bannerAdCard.BANNERADS_a_mobile-phones-store_Q3RXVCY1ABR5
+              - generic [ref=e648]:
+                - img "a" [ref=e649]
+                - img "a" [ref=e650]
+            - link "a a" [ref=e653] [cursor=pointer]:
+              - /url: /realme-16-pro-5g/p/itm0f32797c10002?pid=MOBHGT6NTAGFKUYT&param=998876&otracker=clp_bannerads_1_26.bannerAdCard.BANNERADS_a_mobile-phones-store_L2YNDN61S9RB
+              - generic [ref=e654]:
+                - img "a" [ref=e655]
+                - img "a" [ref=e656]
+            - link "a a" [ref=e659] [cursor=pointer]:
+              - /url: /realme-16-pro-5g-master-gold-256-gb/p/itmf8e5c193facd1?pid=MOBHGT68YJGMF89K&param=7709&otracker=clp_bannerads_2_26.bannerAdCard.BANNERADS_a_mobile-phones-store_Q3RXVCY1ABR5
+              - generic [ref=e660]:
+                - img "a" [ref=e661]
+                - img "a" [ref=e662]
+            - link "a a" [ref=e665] [cursor=pointer]:
+              - /url: /realme-16-pro-5g/p/itm0f32797c10002?pid=MOBHGT6NTAGFKUYT&param=998876&otracker=clp_bannerads_1_26.bannerAdCard.BANNERADS_a_mobile-phones-store_L2YNDN61S9RB
+              - generic [ref=e666]:
+                - img "a" [ref=e667]
+                - img "a" [ref=e668]
+          - img [ref=e670]
+          - img [ref=e673]
+        - link "motorola-Edge 7 motorola-Edge 7" [ref=e678] [cursor=pointer]:
+          - /url: /motorola-edge-70/p/itmc5fb119ade9e5?pid=MOBHHWX6CZUZFKBP&param=2918&otracker=clp_bannerads_1_27.bannerAdCard.BANNERADS_motorola-Edge%2B7_mobile-phones-store_ZCUFOB9RPX18
+          - generic [ref=e679]:
+            - img "motorola-Edge 7" [ref=e680]
+            - img "motorola-Edge 7" [ref=e681]
+        - link "a a" [ref=e685] [cursor=pointer]:
+          - /url: /poco-c85-5g-mystic-purple-128-gb/p/itm74e2143a5de24?pid=MOBHHWYSPT9X4GB3&param=8765423&otracker=clp_bannerads_1_28.bannerAdCard.BANNERADS_a_mobile-phones-store_2XS988T3LH2N
+          - generic [ref=e686]:
+            - img "a" [ref=e687]
+            - img "a" [ref=e688]
+        - link "i i" [ref=e692] [cursor=pointer]:
+          - /url: /realme-p4x-5g/p/itm575b1540859e4?pid=MOBHHTPHYT457HJN&param=5622&otracker=clp_bannerads_1_29.bannerAdCard.BANNERADS_i_mobile-phones-store_IQJPT75ZJ5LP
+          - generic [ref=e693]:
+            - img "i" [ref=e694]
+            - img "i" [ref=e695]
+        - link "m m" [ref=e699] [cursor=pointer]:
+          - /url: /nothing-phone-3a-lite-white-128-0-gb/p/itm103dc27c53435?pid=MOBHHKYZMPSVCSMD&param=5673&otracker=clp_bannerads_1_30.bannerAdCard.BANNERADS_m_mobile-phones-store_X9VRN7WT0PAU
+          - generic [ref=e700]:
+            - img "m" [ref=e701]
+            - img "m" [ref=e702]
+        - generic [ref=e704]:
+          - generic [ref=e705]:
+            - heading "Apple Smartphones" [level=2] [ref=e707]
+            - link "VIEW ALL" [ref=e709] [cursor=pointer]:
+              - /url: /mobiles/pr?sid=tyy%2C4io&p%5B%5D=facets.brand%255B%255D%3DAPPLE&param=167811&ctx=eyJjYXJkQ29udGV4dCI6eyJhdHRyaWJ1dGVzIjp7InRpdGxlIjp7Im11bHRpVmFsdWVkQXR0cmlidXRlIjp7ImtleSI6InRpdGxlIiwiaW5mZXJlbmNlVHlwZSI6IlRJVExFIiwidmFsdWVzIjpbIkFwcGxlIFNtYXJ0cGhvbmVzIl0sInZhbHVlVHlwZSI6Ik1VTFRJX1ZBTFVFRCJ9fX19fQ%3D%3D&bu=MOBILE&wid=31.productCard.PMU_V2_28
+          - generic [ref=e712]:
+            - generic [ref=e714]:
+              - generic [ref=e717]:
+                - link "Apple iPhone 17 (Black, 256 GB)" [ref=e718] [cursor=pointer]:
+                  - /url: /apple-iphone-17-black-256-gb/p/itm6eb39da622cdd?pid=MOBHFN6YN2HXB5HE&lid=LSTMOBHFN6YN2HXB5HER9QXGU&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBHFN6YN2HXB5HE&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_1_31.productCard.PMU_V2_Apple%2BiPhone%2B17%2B%2528Black%252C%2B256%2BGB%2529_mobile-phones-store_MOBHFN6YN2HXB5HE_neo%2Fmerchandising_0&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_1_NA_view-all&cid=MOBHFN6YN2HXB5HE
+                  - img "Apple iPhone 17 (Black, 256 GB)" [ref=e722]
+                - generic [ref=e723]:
+                  - link "Apple iPhone 17 (Black, 256 GB)" [ref=e725] [cursor=pointer]:
+                    - /url: /apple-iphone-17-black-256-gb/p/itm6eb39da622cdd?pid=MOBHFN6YN2HXB5HE&lid=LSTMOBHFN6YN2HXB5HER9QXGU&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBHFN6YN2HXB5HE&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_1_31.productCard.PMU_V2_Apple%2BiPhone%2B17%2B%2528Black%252C%2B256%2BGB%2529_mobile-phones-store_MOBHFN6YN2HXB5HE_neo%2Fmerchandising_0&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_1_NA_view-all&cid=MOBHFN6YN2HXB5HE
+                  - generic [ref=e726]:
+                    - generic [ref=e728]:
+                      - text: "4.7"
+                      - img [ref=e729]
+                    - text: (4,077)
+                  - generic [ref=e732]: ₹82,900
+                - img [ref=e735] [cursor=pointer]
+              - generic [ref=e739]:
+                - link "Apple iPhone 16 (Black, 128 GB)" [ref=e740] [cursor=pointer]:
+                  - /url: /apple-iphone-16-black-128-gb/p/itmb07d67f995271?pid=MOBH4DQFG8NKFRDY&lid=LSTMOBH4DQFG8NKFRDYNBDOZI&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBH4DQFG8NKFRDY&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_2_31.productCard.PMU_V2_Apple%2BiPhone%2B16%2B%2528Black%252C%2B128%2BGB%2529_mobile-phones-store_MOBH4DQFG8NKFRDY_neo%2Fmerchandising_1&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_2_NA_view-all&cid=MOBH4DQFG8NKFRDY
+                  - img "Apple iPhone 16 (Black, 128 GB)" [ref=e744]
+                - generic [ref=e745]:
+                  - link "Apple iPhone 16 (Black, 128 GB)" [ref=e747] [cursor=pointer]:
+                    - /url: /apple-iphone-16-black-128-gb/p/itmb07d67f995271?pid=MOBH4DQFG8NKFRDY&lid=LSTMOBH4DQFG8NKFRDYNBDOZI&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBH4DQFG8NKFRDY&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_2_31.productCard.PMU_V2_Apple%2BiPhone%2B16%2B%2528Black%252C%2B128%2BGB%2529_mobile-phones-store_MOBH4DQFG8NKFRDY_neo%2Fmerchandising_1&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_2_NA_view-all&cid=MOBH4DQFG8NKFRDY
+                  - generic [ref=e748]:
+                    - generic [ref=e750]:
+                      - text: "4.6"
+                      - img [ref=e751]
+                    - text: (2,04,319)
+                  - generic [ref=e753]:
+                    - generic [ref=e754]: ₹64,900
+                    - generic [ref=e755]: ₹69,900
+                    - generic [ref=e756]: 7% off
+                - img [ref=e759] [cursor=pointer]
+              - generic [ref=e763]:
+                - link "Apple iPhone 17 (Lavender, 256 GB)" [ref=e764] [cursor=pointer]:
+                  - /url: /apple-iphone-17-lavender-256-gb/p/itmf37c8dffa4165?pid=MOBHFN6YKGBPYJZD&lid=LSTMOBHFN6YKGBPYJZDEZPBYP&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBHFN6YKGBPYJZD&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_3_31.productCard.PMU_V2_Apple%2BiPhone%2B17%2B%2528Lavender%252C%2B256%2BGB%2529_mobile-phones-store_MOBHFN6YKGBPYJZD_neo%2Fmerchandising_2&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_3_NA_view-all&cid=MOBHFN6YKGBPYJZD
+                  - img "Apple iPhone 17 (Lavender, 256 GB)" [ref=e768]
+                - generic [ref=e769]:
+                  - link "Apple iPhone 17 (Lavender, 256 GB)" [ref=e771] [cursor=pointer]:
+                    - /url: /apple-iphone-17-lavender-256-gb/p/itmf37c8dffa4165?pid=MOBHFN6YKGBPYJZD&lid=LSTMOBHFN6YKGBPYJZDEZPBYP&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBHFN6YKGBPYJZD&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_3_31.productCard.PMU_V2_Apple%2BiPhone%2B17%2B%2528Lavender%252C%2B256%2BGB%2529_mobile-phones-store_MOBHFN6YKGBPYJZD_neo%2Fmerchandising_2&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_3_NA_view-all&cid=MOBHFN6YKGBPYJZD
+                  - generic [ref=e772]:
+                    - generic [ref=e774]:
+                      - text: "4.7"
+                      - img [ref=e775]
+                    - text: (4,077)
+                  - generic [ref=e778]: ₹82,900
+                - img [ref=e781] [cursor=pointer]
+              - generic [ref=e785]:
+                - link "Apple iPhone 17 (White, 256 GB)" [ref=e786] [cursor=pointer]:
+                  - /url: /apple-iphone-17-white-256-gb/p/itmf98e89534d806?pid=MOBHFN6YTSH3QRCZ&lid=LSTMOBHFN6YTSH3QRCZYMRV03&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBHFN6YTSH3QRCZ&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_4_31.productCard.PMU_V2_Apple%2BiPhone%2B17%2B%2528White%252C%2B256%2BGB%2529_mobile-phones-store_MOBHFN6YTSH3QRCZ_neo%2Fmerchandising_3&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_4_NA_view-all&cid=MOBHFN6YTSH3QRCZ
+                  - img "Apple iPhone 17 (White, 256 GB)" [ref=e790]
+                - generic [ref=e791]:
+                  - link "Apple iPhone 17 (White, 256 GB)" [ref=e793] [cursor=pointer]:
+                    - /url: /apple-iphone-17-white-256-gb/p/itmf98e89534d806?pid=MOBHFN6YTSH3QRCZ&lid=LSTMOBHFN6YTSH3QRCZYMRV03&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBHFN6YTSH3QRCZ&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_4_31.productCard.PMU_V2_Apple%2BiPhone%2B17%2B%2528White%252C%2B256%2BGB%2529_mobile-phones-store_MOBHFN6YTSH3QRCZ_neo%2Fmerchandising_3&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_4_NA_view-all&cid=MOBHFN6YTSH3QRCZ
+                  - generic [ref=e794]:
+                    - generic [ref=e796]:
+                      - text: "4.7"
+                      - img [ref=e797]
+                    - text: (4,077)
+                  - generic [ref=e800]: ₹82,900
+                - img [ref=e803] [cursor=pointer]
+              - generic [ref=e807]:
+                - link "Apple iPhone 16 (White, 128 GB)" [ref=e808] [cursor=pointer]:
+                  - /url: /apple-iphone-16-white-128-gb/p/itm7c0281cd247be?pid=MOBH4DQF849HCG6G&lid=LSTMOBH4DQF849HCG6GXHBPXY&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBH4DQF849HCG6G&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_5_31.productCard.PMU_V2_Apple%2BiPhone%2B16%2B%2528White%252C%2B128%2BGB%2529_mobile-phones-store_MOBH4DQF849HCG6G_neo%2Fmerchandising_4&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_5_NA_view-all&cid=MOBH4DQF849HCG6G
+                  - img "Apple iPhone 16 (White, 128 GB)" [ref=e812]
+                - generic [ref=e813]:
+                  - link "Apple iPhone 16 (White, 128 GB)" [ref=e815] [cursor=pointer]:
+                    - /url: /apple-iphone-16-white-128-gb/p/itm7c0281cd247be?pid=MOBH4DQF849HCG6G&lid=LSTMOBH4DQF849HCG6GXHBPXY&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBH4DQF849HCG6G&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_5_31.productCard.PMU_V2_Apple%2BiPhone%2B16%2B%2528White%252C%2B128%2BGB%2529_mobile-phones-store_MOBH4DQF849HCG6G_neo%2Fmerchandising_4&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_5_NA_view-all&cid=MOBH4DQF849HCG6G
+                  - generic [ref=e816]:
+                    - generic [ref=e818]:
+                      - text: "4.6"
+                      - img [ref=e819]
+                    - text: (2,04,319)
+                  - generic [ref=e821]:
+                    - generic [ref=e822]: ₹64,900
+                    - generic [ref=e823]: ₹69,900
+                    - generic [ref=e824]: 7% off
+                - img [ref=e827] [cursor=pointer]
+              - generic [ref=e831]:
+                - link "Apple iPhone 17 (Sage, 256 GB)" [ref=e832] [cursor=pointer]:
+                  - /url: /apple-iphone-17-sage-256-gb/p/itmcfa57eff7729c?pid=MOBHFN6YNAG4ZTHS&lid=LSTMOBHFN6YNAG4ZTHSWUQQUI&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBHFN6YNAG4ZTHS&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_6_31.productCard.PMU_V2_Apple%2BiPhone%2B17%2B%2528Sage%252C%2B256%2BGB%2529_mobile-phones-store_MOBHFN6YNAG4ZTHS_neo%2Fmerchandising_5&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_6_NA_view-all&cid=MOBHFN6YNAG4ZTHS
+                  - img "Apple iPhone 17 (Sage, 256 GB)" [ref=e836]
+                - generic [ref=e837]:
+                  - link "Apple iPhone 17 (Sage, 256 GB)" [ref=e839] [cursor=pointer]:
+                    - /url: /apple-iphone-17-sage-256-gb/p/itmcfa57eff7729c?pid=MOBHFN6YNAG4ZTHS&lid=LSTMOBHFN6YNAG4ZTHSWUQQUI&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_1e32497e-21e1-40e9-891d-a67fabaccae5_31_QBM1SMZJ3K19_MC.MOBHFN6YNAG4ZTHS&ppt=hp&ppn=homepage&ssid=avmge646ts0000001769521463983&otracker=clp_pmu_v2_Apple%2BSmartphones_6_31.productCard.PMU_V2_Apple%2BiPhone%2B17%2B%2528Sage%252C%2B256%2BGB%2529_mobile-phones-store_MOBHFN6YNAG4ZTHS_neo%2Fmerchandising_5&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Apple%2BSmartphones_LIST_productCard_cc_6_NA_view-all&cid=MOBHFN6YNAG4ZTHS
+                  - generic [ref=e840]:
+                    - generic [ref=e842]:
+                      - text: "4.7"
+                      - img [ref=e843]
+                    - text: (4,077)
+                  - generic [ref=e846]: ₹82,900
+                - img [ref=e849] [cursor=pointer]
+            - img [ref=e852] [cursor=pointer]
+            - img [ref=e855] [cursor=pointer]
+  - contentinfo [ref=e858]:
+    - generic [ref=e859]:
+      - generic [ref=e862]:
+        - generic [ref=e863]:
+          - heading "Mobiles Price List" [level=2] [ref=e864]
+          - generic [ref=e865]:
+            - generic [ref=e866]: Mobiles
+            - generic [ref=e867]: Price
+          - list [ref=e868]:
+            - listitem [ref=e869]:
+              - link "Snexian GURU 310" [ref=e871] [cursor=pointer]:
+                - /url: /snexian-guru-310/p/itmf3wby4mynzdtz?pid=MOBGY3U7XYDG5RWC&lid=LSTMOBGY3U7XYDG5RWC9U8G2X&marketplace=FLIPKART
+              - generic [ref=e872]: Rs. 563
+            - listitem [ref=e873]:
+              - link "Nokia All-New 105 Single Sim Keypad Phone with Built-in UPI Payments" [ref=e875] [cursor=pointer]:
+                - /url: /nokia-all-new-105-single-sim-keypad-phone-built-in-upi-payments/p/itme2299749c4a1c?pid=MOBGQFVG9WPRN3TH&lid=LSTMOBGQFVG9WPRN3THQXALSS&marketplace=FLIPKART
+              - generic [ref=e876]: Rs. 1241
+            - listitem [ref=e877]:
+              - link "MOTOROLA g57 power 5G (Pantone Regatta, 128 GB)" [ref=e879] [cursor=pointer]:
+                - /url: /motorola-g57-power-5g-pantone-regatta-128-gb/p/itmaea0032ab54ab?pid=MOBHGRFEGSFYUE2E&lid=LSTMOBHGRFEGSFYUE2EKQ7HW6&marketplace=FLIPKART
+              - generic [ref=e880]: Rs. 13999
+            - listitem [ref=e881]:
+              - link "Nokia 105 Classic Single Sim Keypad Phone, Without Charger" [ref=e883] [cursor=pointer]:
+                - /url: /nokia-105-classic-single-sim-keypad-phone-without-charger/p/itmfdb404ec1d0f4?pid=MOBGWZUWPTFTQZAH&lid=LSTMOBGWZUWPTFTQZAHX8MMOT&marketplace=FLIPKART
+              - generic [ref=e884]: Rs. 1249
+            - listitem [ref=e885]:
+              - link "Ai+ Pulse (Blue, 64 GB)" [ref=e887] [cursor=pointer]:
+                - /url: /ai-pulse-blue-64-gb/p/itm131a44071789c?pid=MOBHDDQXW4ZVQFFX&lid=LSTMOBHDDQXW4ZVQFFXZCFXAD&marketplace=FLIPKART
+              - generic [ref=e888]: Rs. 6999
+            - listitem [ref=e889]:
+              - link "Jmax Super 2" [ref=e891] [cursor=pointer]:
+                - /url: /jmax-super-2/p/itm64d955f363563?pid=MOBG7AEPDT5DN4JH&lid=LSTMOBG7AEPDT5DN4JHOQTVV1&marketplace=FLIPKART
+              - generic [ref=e892]: Rs. 599
+            - listitem [ref=e893]:
+              - link "POCO C75 5G (Enchanted Green, 64 GB)" [ref=e895] [cursor=pointer]:
+                - /url: /poco-c75-5g-enchanted-green-64-gb/p/itmf8fdd88f80fcc?pid=MOBH7443VEGWXG4G&lid=LSTMOBH7443VEGWXG4GOW118G&marketplace=FLIPKART
+              - generic [ref=e896]: Rs. 8299
+            - listitem [ref=e897]:
+              - link "vivo T4 5G (Emerald Blaze, 256 GB)" [ref=e899] [cursor=pointer]:
+                - /url: /vivo-t4-5g-emerald-blaze-256-gb/p/itmc2634fd4daeb9?pid=MOBHATXZRTQ465X9&lid=LSTMOBHATXZRTQ465X9GYZRWI&marketplace=FLIPKART
+              - generic [ref=e900]: Rs. 24999
+            - listitem [ref=e901]:
+              - link "Jio Bharat V4 JBV191M2 4G UPI Phone" [ref=e903] [cursor=pointer]:
+                - /url: /jio-bharat-v4-jbv191m2-4g-upi-phone/p/itmda060b143ed50?pid=MOBHJ5P77NYVDVJZ&lid=LSTMOBHJ5P77NYVDVJZLXR4QQ&marketplace=FLIPKART
+              - generic [ref=e904]: Rs. 749
+            - listitem [ref=e905]:
+              - link "realme C61 (Marble Black, 64 GB)" [ref=e907] [cursor=pointer]:
+                - /url: /realme-c61-marble-black-64-gb/p/itmd6ddbcefce040?pid=MOBHFRKRAHPWY9JA&lid=LSTMOBHFRKRAHPWY9JAT5XDHB&marketplace=FLIPKART
+              - generic [ref=e908]: Rs. 6999
+          - generic [ref=e909]: This data was last updated on 2026/01/27
+        - generic [ref=e910]:
+          - heading "Mobile Phones- Buy mobile phones online at best prices in India" [level=2] [ref=e911]
+          - generic [ref=e912]:
+            - text: Mobile phone, also called a cell phone owing to it using a cellular network architecture, have seen a tremendous growth in terms of technology and size over the years. On Flipkart, we have a diverse collection of iOS and Android mobiles ranging from basic mobiles, low-range and mid-range phones to very high-end smartphones that
+            - link "Realme P1 5G" [ref=e913] [cursor=pointer]:
+              - /url: /realme-p1-5g-peacock-green-128-gb/p/itmae4447062b5b5
+            - text: "|"
+            - link "vivo T3 Pro 5G" [ref=e914] [cursor=pointer]:
+              - /url: /vivo-t3-pro-5g-emerald-green-128-gb/p/itmcf52c1fcffbf3
+            - text: "|"
+            - link "POCO C75 5G" [ref=e915] [cursor=pointer]:
+              - /url: /poco-c75-5g/p/itm10b3f6f1bc616
+            - text: "|"
+            - link "Realme 14x 5G" [ref=e916] [cursor=pointer]:
+              - /url: /realme-14x-5g-crystal-black-128-gb/p/itmb45ae2fd70ae9
+            - text: "|"
+            - link "Realme 12x 5G" [ref=e917] [cursor=pointer]:
+              - /url: /realme-12x-5g-twilight-purple-128-gb/p/itmaa3401e5370b5
+            - text: "|"
+            - link "Vivo T3 Ultra 5G" [ref=e918] [cursor=pointer]:
+              - /url: /vivo-t3-ultra-frost-green-128-gb/p/itme360ff5b7dbab
+            - text: "|"
+            - link "POCO M7 Pro 5G" [ref=e919] [cursor=pointer]:
+              - /url: /poco-m7-pro-5g-lunar-dust-128-gb/p/itm59a079d57519a
+            - text: "|"
+            - link "Motorola G64 5G" [ref=e920] [cursor=pointer]:
+              - /url: /motorola-g64-5g-ambrosia-128-gb/p/itm6dfa6fef0e50a
+            - heading "iPhone 17" [level=2] [ref=e921]
+            - text: Introducing the new iPhone 17. This marvel enters with a sleek design that performs. With thinner borders and Super Retina XDR display,
+            - link "iPhone 17" [ref=e922] [cursor=pointer]:
+              - /url: /apple-iphone-17-black-256-gb/p/itm6eb39da622cdd
+            - text: offers you more screen in the same size and pulls you into movies, games, and images with a brighter, limitless view. Its contoured edges sit naturally in your hand with a perfect grip. Scratches are common. But resistance is rare. And you get the rarest of rare features with iPhone 17. Feel unstoppable with the impact that Ceramic Shield 2 front brings to your experience. Whether you drop your phone on the road, keep it facing down on a rugged surface, or toss it into your bag with coins, your iPhone 17 screen just looks brand new because this time it has been made three times tougher. Make the most out of our crazy deals and offers to claim this luxury phone today.
+            - heading "iPhone 17 Pro" [level=2] [ref=e923]
+            - text: The
+            - link "iPhone 17 Pro" [ref=e924] [cursor=pointer]:
+              - /url: /apple-iphone-17-pro-cosmic-orange-256-gb/p/itm76fe37ca9ea8c
+            - text: "is exceptional in its smart design, impeccable performance, and new-generation fusion camera features. Its best-ever battery offers you three extra hours per full charge compared to the iPhone 15 Pro Max. You get everything more in this Pro version: more binge watching, more gaming, more multitasking, and more time to capture moments on the go. Features like 50% charge in 20 minutes get you back to action instantly. With record-breaking features like the 31 hours of video playback, you can record your adventures, play AAA gaming titles, and edit videos all day. Experience flawless multitasking at your fingertips with cutting-edge technology like a 6-core CPU, which powers through demanding apps 40% faster than before, and a 2 times faster 6-core GPU, which makes the pace smooth for immersive graphics, gaming, etc. The iPhone 17 Pro helps you focus on productivity, not the low battery pop-ups."
+            - heading "iPhone 17 Pro Max" [level=2] [ref=e925]
+            - text: Stay powered all day with iPhone 17 Pro Max. It offers up to 37 hours of video playback and MagSafe wireless charging. Comes with storage capacity options of 256GB, 512GB, 1TB, and 2TB. Choose from three new beautiful colours like Cosmic Orange, Deep Blue, and Silver. Run by the latest A19 Pro Chip and a 16-core Neural Engine, it ensures smoother and faster performance, perfect for multitasking. The 6.9” Super Retina XDR display with ProMotion and Always-On Display is the perfect balance of beauty and efficiency. Made with a durable aluminium unibody, it comes with a Ceramic Shield 2 front and back that makes it scratch-resistant. You get three 48MP Pro Fusion camera system along with 18MP Center Stage front camera in the front.
+            - link "iPhone 17 Pro Max" [ref=e926] [cursor=pointer]:
+              - /url: /apple-iphone-17-pro-max-cosmic-orange-256-gb/p/itmd38e30731883a
+            - text: is also water-resistant up to 6m for 30 minutes. If you are looking for seamless performance, a powerful processor, and a high-tech camera system, this is it.
+            - heading "iPhone Air" [level=2] [ref=e927]
+            - text: Meet Apple’s slimmest phone ever-
+            - link "iPhone Air" [ref=e928] [cursor=pointer]:
+              - /url: /apple-iphone-air-space-black-256-gb/p/itm98092611013dd
+            - text: . Designed with Grade 5 Titanium, it has a high-gloss mirror finish that looks and feels premium. Pick from four stunning colours- Space Black, Cloud White, Light Gold, and Sky Blue, and let the phone do the flexing. Despite its slim design, the device is built with a titanium frame and Ceramic Shield 2 front and back, it is three times more scratch-resistant, along with water-resistant up to 6m for 30 min. Enjoy its pro-level performance with its A19 Pro Chip that ensures lightning-fast speed and multitasking. It also has a 6-core CPU, 5-core GPU, and 16-core Neural Engine that ensures fast performance with smooth graphics. The 6.5-inch Super Retina XDR display with ProMotion makes sure every frame is vibrant and fluid. Take super high-resolution photos and portraits with its 48MP Fusion Camera System, while the 18MP Center Stage front camera makes sure your selfies and video calls are seamless. With ultra-stabilisation and dual capture, capture breathtaking views even if you are on the move.
+            - heading "iPhone 16" [level=2] [ref=e929]
+            - text: Enjoy the blend of smooth performance and stylish designs with the
+            - link "iPhone 16" [ref=e930] [cursor=pointer]:
+              - /url: /apple-iphone-16-white-128-gb/p/itm7c0281cd247be
+            - text: . This device comes with an A18 chip that features smart camera control. It also has an action button that provides seamless access to useful features, making your work easier. Whether you are in an important meeting or frequently travelling, this device can come in handy. The iPhone 16 in India helps you to enjoy the easy-to-use artificial intelligence system. Built for Apple Intelligence, the device can appeal to the tech-head in you. Additionally, the iPhone 16 offers a 48 MP + 12 MP primary camera so that you can click vibrant photos and record engaging videos. You also get a 12 MP front camera, allowing you to click selfies and group pictures. The camera of the iPhone 16 can, thus, enable you to relive life’s precious memories. Moreover, with systemwide writing tools built into the iOS, you can rewrite, proofread, and summarise text with ease. These tools help you with mail, notes, and third-party apps. Before adding this device to your shopping cart, check the iPhone 16’s price and the unique features it offers.
+            - heading "iPhone 16 Plus" [level=2] [ref=e931]
+            - text: Enjoy the seamless performance of the iPhone 16 Plus while playing games or multitasking on several applications. It has features with advanced technology to deliver exceptional experience while navigating through it. Equipped with an A18 chip and a 6-core processor, this iPhone 16 Plus offers seamless performance whether you are working or streaming. You can also enjoy watching videos on its wide 17.02 cm screen. The screen has a Super Retina XDR Display that makes the visuals appealing with stunning colour schemes and exceptional clarity. You can have a cinematic experience while watching videos or playing games on the phone. Additionally, this iPhone 16 Plus in India has a built-in stereo speaker that produces high-quality audio that elevates your media experience. You can also enjoy your passion for photography and videography on the iPhone 16 Plus with its dual camera setup. It has an ultra-wide 48 MP lens on the front camera and a 12 MP secondary camera. You can capture macro shots and intimate moments in the selfie mode with family and friends. The iPhone 16 Plus price is also an attractive feature, considering its advanced features.
+            - heading "iPhone 16 Pro" [level=2] [ref=e932]
+            - text: "Shake up your tech life and day-to-day style with the stunning Apple iPhone 16 Pro. This smartphone's gorgeous 16 cm (6.3) Super Retina XDR display performs an amazing job of preserving all the colours and intricacies of the images displayed on the screen. This smartphone has a three-camera set-up: a 48 MP Ultra Wide camera, a 48 MP Fusion Camera, and a 12 MP 5X telephoto camera. Its fun three-camera setup is ideal for capturing the minute details in the images you click. Additionally, a 12 MP front camera is included for taking selfies, making calls, and other activities. There is dual SIM functionality available with the iPhone 16 Pro (India). Depending on your mode of payment you can get access to additional iPhone 16 Pro offers while purchasing your iPhone 16 Pro online. You can also trade in your old to make the iPhone 16 Pro’s price more favourable. You can also check out the ratings and reviews left by other customers to help you make up your mind."
+            - heading "iPhone 16 Pro Max" [level=2] [ref=e933]
+            - text: "With the Apple iPhone 16 Pro Max, you can get your hands on the next generation of smartphones. The phone has a 17.53 cm (6.9) Super Retina XDR display, which provides clear details and realistic colors. The iPhone 16 Pro Max (India) comes with Dual SIM support to let you stay connected wherever you are. Additionally, it has a three-camera configuration that produces incredibly detailed images with a resolution of up to 4K. With ease, high-resolution images and films may be captured with the three cameras in this setup: a 12 MP 5X telephoto, a 48 MP Ultra Wide, and a 48 MP Fusion camera. It also has a 12 MP front camera, which allows you to take pictures and participate in calls. The phone's 256 GB of internal storage, which makes it simple to save movies, images, and any other data you would want to keep private, is also helpful. Flipkart offers a price check for the iPhone 16 Pro Max online. A wide range of iPhone 16 Pro Max deals and discounts are available to you, contingent upon your preferred payment method. Purchasing an iPhone 16 Pro Max online is made simple by all of these deals and the availability of free EMIs."
+            - heading "iPhone 16e" [level=2] [ref=e934]
+            - text: Get your hands on one of Apple’s latest offerings the
+            - link "iPhone 16e" [ref=e935] [cursor=pointer]:
+              - /url: /apple-iphone-16e-white-128-gb/p/itm7971f594b0906
+            - text: to upgrade your phone. The iPhone 16e (India) comes with a large 15.49 cm (6.1) Super Retina XDR display that lets you view visuals and images in crystal clear clarity. It also comes with a 48 MP + 12 MP camera to capture images and videos in high resolution. The phone also features a 12 MP front camera to enable video calls and capturing selfies. The A18 chip that powers this phone is more than enough when it comes to handling multiple processes and tasks, making this phone ideal for people who tend to get a lot done while they're on the move. The iPhone 16e prices can vary slightly depending on your method of payment. You can get various iPhone 16e offers and discounts depending on the card you are paying with. You can also exchange your old phone in return for a new one to get an additional discount on your new phone.
+            - heading "Google Pixel 10 Pro Fold" [level=2] [ref=e936]
+            - text: Expand your horizons with the Google
+            - link "Pixel 10 Pro Fold" [ref=e937] [cursor=pointer]:
+              - /url: /google-pixel-10-pro-fold-moonstone-256-gb/p/itm0f28b870d6bc9
+            - text: . With its foldable Super Actua Flex display of 20.32 cm (8), you can redefine how you consume multimedia content on your smartphone. Watch films and series of your choice with an enhanced immersive feel or use the foldable design to set it up for hands-free viewing. The large OLED screen can also be suitable for HD games, offering you a competitive edge with effortless control and navigation. The smartphone is powered by Google’s octa-core Tensor G5 chipset, enhancing system performance and responsiveness. From using different applications simultaneously to multitasking without slowdowns, this smartphone helps you to get the job done effortlessly. The smartphone is also equipped with a 48 MP rear camera, allowing you to take sharp and lifelike pictures. With optimal zooming capacity and a powerful telephoto lens, you can get close-ups of your subjects with vivid details. The advanced Pixel Fold camera system enables you to review the pictures as you are capturing them using Dual Screen Preview. This way, you can refine your photography skills. Moreover, the phone also supports HD recording, facilitating stunning videography. So, choose the Google Pixel 10 Pro Fold for both your personal and professional needs.
+            - heading "Google Pixel 10" [level=2] [ref=e938]
+            - text: Give your productivity a boost with the
+            - link "Google Pixel 10" [ref=e939] [cursor=pointer]:
+              - /url: /google-pixel-10-obsidian-256-gb/p/itm06bd3add90074
+            - text: . Powered by the Google Tensor G5 chip, this device offers optimal performance to streamline your workflow to a significant extent. The chip is custom-built for an all-day battery life. Therefore, you can continue multitasking, juggling different apps, or even play games on your smartphone without worrying about excessive power drainage. Moreover, the chip is also compatible with Google’s AI, harnessing the power of artificial intelligence to simplify your personal and professional projects. The chip also enables you to click high-definition pictures and record 4K footage seamlessly on your device. Moreover, this chip also enhances the overall computing power of the phone substantially. In addition to this chip, the Magic Cue feature of this phone can also appeal to the tech-head in you. By proactively offering relevant information while you use the phone, this feature can improve your digital life.
+            - heading "Google Pixel 10 Pro" [level=2] [ref=e940]
+            - text: Redefine how you consume multimedia content on your phone with the
+            - link "Google Pixel 10 Pro" [ref=e941] [cursor=pointer]:
+              - /url: /google-pixel-10-pro-obsidian-256-gb/p/itm112fb88d1f5a3
+            - text: . This device has a QHD+ display, offering bold and prominent picture quality for the films and series you watch. In addition, due to its 16 cm (6.3) screen size, the phone can offer an immersive experience during your binge-watching sessions. With a peak brightness of 3300 nits, the phone ensures optimal visibility in various lighting conditions. Notably, the phone is equipped with stereo speakers and can offer spatial audio output. As a result, your movie-watching experience can feel even more engaging. In addition, you can also play your favourite games on this phone. The device is designed to support HD games, catering to your preferences. It also has an upto 120 Hz refresh rate, which can contribute to a lag-free gaming experience.
+            - heading "Google Pixel 10 Pro XL" [level=2] [ref=e942]
+            - text: The numerous and dynamic user-friendly features of the
+            - link "Google Pixel 10 Pro XL" [ref=e943] [cursor=pointer]:
+              - /url: /google-pixel-10-pro-xl-obsidian-256-gb/p/itmc94b4a1845747
+            - text: can make it a suitable choice for you. Its 17.27 cm (6.8) screen size offers you an immersive feeling, whether you are watching a film or streaming a series. Thanks to the QHD+ Super Actua display, you can get stunning picture quality for an engaging viewing experience. In addition, the phone also has a 3300-nit peak brightness, delivering high-quality visual output with vivid clarity. The device is also equipped with stereo speakers and spatial audio output capabilities, further reshaping how you consume multimedia content. On the other hand, this device also has a Magic Cue feature that can proactively supply you with relevant information to simplify your tasks. It can access your emails or calendars to extract the necessary data for seamless communication.
+            - heading "Samsung Galaxy Z Flip 7" [level=2] [ref=e944]
+            - text: With its numerous user-friendly features and foldable design, the
+            - link "Samsung Galaxy Z Flip7" [ref=e945] [cursor=pointer]:
+              - /url: /samsung-galaxy-z-flip7-5g-black-512-gb/p/itmc200512d5867d
+            - text: can combine style with substance. The sleek construction of the phone makes it aesthetically appealing and easy to carry. Moreover, the device also keeps you up-to-date with personalised briefings, using the Galaxy AI. Furthermore, the phone also features the Now Bar, allowing you to access music, live notifications, and more directly from the cover screen. Additionally, the device is equipped with a 4300 mAh battery. Therefore, it can provide you with prolonged screen-on time without needing frequent charging. Notably, the phone uses Samsung’s Mobile Digital Natural Image engine, or mDNIe, to ensure enhanced display quality while optimising power consumption. So, you can watch films or play games for hours on your smartphone without any unwarranted interruptions. This phone is also easy to pair with other Samsung products, such as smartwatches, for hassle-free use.
+            - heading "vivo X Fold 5 5G" [level=2] [ref=e946]
+            - text: The
+            - link "vivo X Fold5" [ref=e947] [cursor=pointer]:
+              - /url: /vivo-x-fold5-titanium-gray-512-gb/p/itm7a261c3ce8590
+            - text: enables you to take stunning photos with its 50 MP + 50 MP + 50 MP rear camera setup. Powered by advanced ZEISS imaging technology, the telephoto camera captures images from a distance with vivid clarity. Features like ultra-wide-angle, autofocus, and multifocal portrait can appeal to the photography enthusiast in you. The smartphone also supports a dual display preview when taking a picture. This offers a real-time preview on the device’s cover screen. The device also has 16 GB of RAM, ensuring fast system performance. Its 512 GB ROM allows you to store apps, multimedia files, and more, without running out of space.
+            - heading "vivo X200 FE" [level=2] [ref=e948]
+            - text: The
+            - link "vivo X200 FE" [ref=e949] [cursor=pointer]:
+              - /url: /vivo-x200-fe-amber-yellow-256-gb/p/itmbb40443b79937
+            - text: is powered by the MediaTek Dimensity 9300+ processor. Therefore, it offers a fast system response time, allowing you to multitask and juggle different apps with ease. The device also has high clock speeds, ensuring you can have a glitch-free gaming experience. In addition, the smartphone also has a battery capacity of 6500 mAh. So, you do not have to worry about rapid power drainage. Its military-grade drop resistance also protects this phone from accidental damage. Moreover, the device has IP68 and IP69 ratings for substantial dust and water resistance. All these different attributes can make the vivo X200 FE a suitable option for you.
+            - heading "Motorola Edge 60" [level=2] [ref=e950]
+            - text: Take a look at the
+            - link "Moto edge 60" [ref=e951] [cursor=pointer]:
+              - /url: /motorola-edge-60-5g-pantone-gibraltar-sea-256-gb/p/itmc7ab8f1263d42
+            - text: ", which combines style and substance! With its sleek design, the phone can become a part of your fashion statement. In addition, the numerous user-friendly features of the device can streamline both your professional and leisure activities. Thanks to its 5G connectivity, you can join virtual meetings and online conferences without any hassle. Moreover, the fast internet connection also enables you to stream your favourite films and series with ease. This mobile has a quad-curved display with a high screen-to-body ratio. Additionally, the device also has stereo speakers with Dolby Atmos technology. Therefore, your multimedia consumption experience can reach a whole new level with this phone. This device is also equipped with an anti-fingerprint coating, keeping the display smudge-free. Moreover, the device has an IP68 rating for underwater protection and an IP69 rating for protection against high water pressure. Therefore, it can resist wear and tear to remain useful in the long run. Additionally, this smartphone features 12 GB of RAM and 256 GB of ROM. Therefore, you can store numerous files and applications on your phone and also multitask without lagging. Furthermore, you can also connect this device to your TV using AI."
+            - heading "CMF by Nothing Phone 2 Pro" [level=2] [ref=e952]
+            - text: Have a look at the
+            - link "CMF Phone 2 Pro" [ref=e953] [cursor=pointer]:
+              - /url: /cmf-nothing-phone-2-pro-5g-black-128-gb/p/itmf32457aeff519
+            - text: that can appeal to the tech enthusiast in you. Powered by a MediaTek Dimensity 7300 Pro 5G processor, the mobile offers accelerated CPU performance and improved graphics output. Moreover, the processor also supports enhanced AI computing. Therefore, the phone can utilise artificial intelligence to organise your notes, voice notes, reminders, and even offer personalised summaries. Moreover, this device is also notable for its camera setup. Its triple rear-camera design allows you to click stunning pictures to capture the special moments of your life. With a 50 MP main camera, a 50 MP telephoto camera, and an 8 MP ultra-wide camera, the CMF Phone 2 Pro can redefine how you take your shots. Thanks to the AI-driven image processing system called TrueLens Engine 3, the camera’s performance can be elevated to a new level. In addition to that, the phone also has a 16 MP front camera. Therefore, you can click spontaneous self-portraits in style. Moreover, the phone also allows you to record videos in Full HD resolution. Thus, the captured footage can get a professional and cinematic touch.
+            - heading "Nothing Phone 3" [level=2] [ref=e954]
+            - text: Enjoy the benefits of optimal performance for a prolonged period with the
+            - link "Nothing phone (3)" [ref=e955] [cursor=pointer]:
+              - /url: /nothing-phone-3-white-256-gb/p/itm0c32a18b0df8a
+            - text: . This smartphone is equipped with a 5500 mAh battery, offering you extended screen-on time. Therefore, you do not have to worry about frequent recharging requirements. Furthermore, the device is powered by the Snapdragon 8s Gen 4 mobile platform. Consequently, it is equipped with an ARM-based Qualcomm Kryo CPU architecture. Thanks to this, this device can offer improved efficiency in image processing and handling graphics. Furthermore, the processor of this device can also provide a smooth gaming experience. Thanks to the high refresh rate and clock speeds, you can participate in intense gaming sessions without excessive glitches or lag. Moreover, this device also offers a fast cooling performance, ensuring the phone does not overheat during long periods of gaming. This way, the device can prevent damage and remain functional in the long run. Interestingly, this device also uses artificial intelligence to level up your user experience. With the help of AI, you can easily find your notes, get audio transcribed, create groups, sort and catalogue data, and more. Additionally, the device also has an IP68 rating, resisting water and dust damage for convenient use.
+            - heading "Samsung Galaxy S25" [level=2] [ref=e956]
+            - text: Are you looking for a new smartphone to cater to your diverse needs? If so, you can have a look at the
+            - link "Samsung Galaxy S25" [ref=e957] [cursor=pointer]:
+              - /url: /samsung-galaxy-s25-5g-icyblue-256-gb/p/itm859ebd4b08d31
+            - text: . With its sleek look and numerous practical features, this device effectively combines style with substance. The 15.75 cm (6.2) screen size ensures that you can stream your favourite films or play online games on your mobile with ease. The Full HD+ display can provide crystal-clear visuals, making the viewing experience even more immersive. So, check out the Samsung Galaxy S25 online and read the product description carefully to learn more about its specifications. Equipped with Galaxy AI, the smartphone can streamline your professional and personal projects. Moreover, the device also has an Audio Eraser, helping you to remove unwanted noise from your videos. With a 4000 mAh battery capacity, the mobile can ensure hours of screen-on time. Therefore, you do not have to worry about unwarranted interruptions or the need for frequent recharging. Thanks to the aluminium frame and Corning Gorilla Glass, the Samsung Galaxy S25 can also stay protected from rapid wear.
+            - heading "Samsung Galaxy S25 Plus" [level=2] [ref=e958]
+            - text: Are you looking for a smartphone that can help you get stunning pictures and videos? If s, you can have a look at the
+            - link "Samsung Galaxy S25 Plus" [ref=e959] [cursor=pointer]:
+              - /url: /samsung-galaxy-s25-plus-5g-silver-shadow-256-gb/p/itm8d76a9b476932
+            - text: . This mobile phone is equipped with a 50 MP + 10 MP + 12 MP rear camera setup, helping you get crystal-clear clicks. Moreover, the device also has a 12 MP front camera so that you can get spontaneous self-portraits. You can refer to the specifications of the Samsung Galaxy S25 Plus online to learn more about its photography and videography capabilities. The ultra-wide angle and optical zooming feature of the device can provide a professional touch to your pictures. Moreover, the device is also powered by the ProVisual Engine. As a result, you can click and edit pictures with enhanced precision. Furthermore, the Samsung Galaxy S25 Plus allows you to shoot in an improved 10-bit HDR to capture lifelike footage. In addition, the phone also has an advanced AP that can remove excess noise from the footage and improve nighttime videography. Moreover, you can also use the Audio Eraser feature, which utilises artificial intelligence to remove unwanted background sound from the recorded videos. So, check the Samsung Galaxy S25 Plus’s price and attributes at your convenience.
+            - heading "Samsung Galaxy S25 Ultra" [level=2] [ref=e960]
+            - text: If you are considering buying a new smartphone, the
+            - link "Samsung Galaxy S25 Ultra" [ref=e961] [cursor=pointer]:
+              - /url: /samsung-galaxy-s25-ultra-5g-titanium-black-512-gb/p/itmc5f14b041aa5b
+            - text: can come in handy for you. The 17.53 cm (6.9) display size of the device can offer an engaging feel, whether you are gaming online or streaming a series. With a significantly higher primary clock speed of 4.47 GHz, this phone can process and execute instructions seamlessly. When you are shopping for the Samsung Galaxy S25 Ultra online, you can check the specifications to learn more about the device’s attributes. If you use graphics-intensive applications, then this device can have an additional appeal to you. Equipped with an Adreno 830 GPU, the Samsung Galaxy S25 Ultra can ensure an enhanced user experience. The device is also powered by Galaxy AI, helping you with everyday tasks. Moreover, the device also has an S-pen, so you can take notes or draw with ease. In addition, If you edit videos on your phone, this device’s Audio Eraser feature can be especially useful. It uses artificial intelligence to detect unwanted noise in your video and can remove it adequately. So, check the Samsung Galaxy S25 Ultra’s price and features, and place your order.
+            - heading "OPPO Reno 12" [level=2] [ref=e962]
+            - text: Are you looking for a new smartphone to suit all your tech needs and requirements? If yes, then the
+            - link "OPPO Reno 12" [ref=e963] [cursor=pointer]:
+              - /url: /oppo-reno-12-5g-astro-silver-256-gb/p/itmaa6baddef2662
+            - text: can be an ideal option for you. The smartphone is available with expandable memory of upto 1 TB to fit all your files and memories safely. Additionally, it is also enabled with BeaconLink. This feature allows you to make voice calls even when there's no mobile signal. Also, the smart technology used in this phone boosts Bluetooth power, so you can still reach out to those nearby. Moreover, this smartphone is incorporated with 5G as well as a 5000 mAh battery to add functionality. If you are a photography lover, the device with a 50 MP main camera OIS and a 32 MP selfie camera will be an ideal option. In addition, the smartphone’s exterior body has a 3D fluid design that mimics the look of waves, giving it a stellar appearance. To add more to the device’s neverending features, the smartphone also has various AI functions. It includes AI Eraser 2.0, AI Best Face, AI Clear Face, AI Studio, AI Smart Image Matting 2.0, AI Recording Summary, and more. Buy OPPO Reno 12 online and enjoy its various futuristic features and benefits.
+            - heading "iPhone 15" [level=2] [ref=e964]
+            - text: Are you looking to buy a new phone from Apple? If yes, then you can have a look at the
+            - link "iPhone 15" [ref=e965] [cursor=pointer]:
+              - /url: /apple-iphone-15-black-128-gb/p/itm6ac6485515ae4
+            - text: . Made of aerospace-grade aluminium and infused glass, the design of this phone has a robust finish, ensuring you can use the device securely. Featuring 128 GB ROM, the device can offer faster response and processing capacity, ensuring you have a smooth and hassle-free digital experience. The iPhone is also well-equipped with a 15.49 cm (6.1) Super Retina XDR display that can ensure an immersive experience when watching a film or series or participating in an online gaming session. If you are interested in photography, this phone can also become your go-to choice. With a 48 MP main camera, the device allows you to click crystal-clear pictures with absolute ease. The device also has a 12 MP front camera that makes sure that you can click stunning selfies that can capture your special moments. This device is also compatible with USB-C, ensuring that phone charging becomes a breeze.
+            - heading "Redmi Note 13 Pro Plus" [level=2] [ref=e966]
+            - text: Redefine your photography skills with the help of
+            - link "Redmi Note 13 Pro+" [ref=e967] [cursor=pointer]:
+              - /url: /redmi-note-13-pro-5g-fusion-purple-256-gb/p/itmb1aa74d7307e2
+            - text: . With the help of the stunning camera settings of the device, you can capture the special moments of your life with absolute ease. The phone is well-equipped with a rear camera setting of 200 MP (OIS) + 8 MP + 2 MP that allows you to take crystal clear photos without any additional hassle. Features like depth control and long exposure can also help you to get sharp clicks with your smartphone. Moreover, if you are someone who enjoys taking self-portraits, this device can also come in handy for you. With its 16 MP front camera, you can click remarkable selfies. In addition to photography, the device might have added appeal to you if you also enjoy videography. The camera settings of the phone allow video recording up to 4 K resolution, giving them an unmatched cinematic feel. You also do not have to worry about running out of phone memory when it comes to storing these videos and photos taken. The mobile has a storage capacity of 256 GB, ensuring that your multimedia files can be saved easily.
+            - heading "Samsung Galaxy Z Fold 5" [level=2] [ref=e968]
+            - text: Get ready to unfold a new chapter in smartphone technology with the Samsung Galaxy Z Fold 5. Crafted with precision, the device exudes sophistication with its sleek design and premium materials. Whether you're watching your favourite movies, multitasking with multiple apps, or diving into the latest mobile games, the foldable display effortlessly adapts to your needs. The immersive visuals are complemented by a buttery-smooth 120 Hz refresh rate, ensuring every swipe and scroll is as fluid as it is mesmerising. Furthermore, the device boasts a robust yet lightweight frame that effortlessly folds and unfolds, making it a suitable companion for those who demand versatility without compromising on style. The Gorilla Glass Victus on the cover and display ensures durability, while the sleek aluminium frame adds a touch of sophistication. The Multi-active Window feature allows you to run multiple apps simultaneously, transforming your device into a powerful productivity tool. Be it working on a presentation, responding to emails, or conducting a video call, the
+            - link "Samsung Z Fold 5" [ref=e969] [cursor=pointer]:
+              - /url: /samsung-galaxy-z-fold5-icy-blue-512-gb/p/itm066a0714a4f3c
+            - text: adapts to your workflow, making every task a breeze. So shop online now and unfold a world of infinite possibilities to elevate your mobile experience like never before!
+            - heading "Oppo Find N2 Flip" [level=2] [ref=e970]
+            - paragraph [ref=e971]: Get the Oppo Find N2 Flip mobile phone to bring home a whole range of exciting features. Fitted with a Flexion Hinge the Oppo Find N2 folds in half to let you view calls, notifications, reminders, and more on a 8.28 cm (3.26) screen. When not using the cover screen, this phone uses its 17.27 cm (6.8) Full HD display for visuals. Made using high-grade steel and a polymer, the hinge can be folded around 400,000 times without wearing out. The phone is powered by a 4300 mAh battery that offers backup for up to 20 hours of video playback, 6 hours of video calling, and around 16 hours of internet browsing. This powerful battery can be charged to up to 50% in just 23 minutes thanks to the 44 W SUPERVOOC Flash Charge. All of these features are tied together by the MediaTek Dimensity 9000+ processor that is more than able to handle multiple operations simultaneously. The phone runs on ColorOS that compliments the aesthetic design of the phone and makes the UI clean and intuitive.
+          - heading "Mobile Brands:" [level=2] [ref=e972]: "Mobile Brands:"
+          - table [ref=e973]:
+            - rowgroup [ref=e974]:
+              - row "Asus Mobile Realme Mobile iPhone Lenovo Mobile Google Pixel Mobile" [ref=e975]:
+                - cell "Asus Mobile" [ref=e976]:
+                  - link "Asus Mobile" [ref=e977] [cursor=pointer]:
+                    - /url: /mobiles/asus~brand/pr?sid=tyy,4io
+                - cell "Realme Mobile" [ref=e978]:
+                  - link "Realme Mobile" [ref=e979] [cursor=pointer]:
+                    - /url: /mobiles/realme~brand/pr?sid=tyy,4io
+                - cell "iPhone" [ref=e980]:
+                  - link "iPhone" [ref=e981] [cursor=pointer]:
+                    - /url: /mobiles/apple~brand/pr?sid=tyy,4io
+                - cell "Lenovo Mobile" [ref=e982]:
+                  - link "Lenovo Mobile" [ref=e983] [cursor=pointer]:
+                    - /url: /lenovo-mobile-phones-store
+                - cell "Google Pixel Mobile" [ref=e984]:
+                  - link "Google Pixel Mobile" [ref=e985] [cursor=pointer]:
+                    - /url: /mobiles/~pixel-phones/pr?sid=tyy%2C4io
+              - row "Poco Mobile HTC Mobile Mi Mobile Motorola Mobile LG Mobile" [ref=e986]:
+                - cell "Poco Mobile" [ref=e987]:
+                  - link "Poco Mobile" [ref=e988] [cursor=pointer]:
+                    - /url: /mobiles/poco~brand/pr?sid=tyy%2C4io
+                - cell "HTC Mobile" [ref=e989]:
+                  - link "HTC Mobile" [ref=e990] [cursor=pointer]:
+                    - /url: /htc-mobile-phones-store
+                - cell "Mi Mobile" [ref=e991]:
+                  - link "Mi Mobile" [ref=e992] [cursor=pointer]:
+                    - /url: /mobiles/mi~brand/pr?sid=tyy,4io
+                - cell "Motorola Mobile" [ref=e993]:
+                  - link "Motorola Mobile" [ref=e994] [cursor=pointer]:
+                    - /url: /motorola-mobile-phones-store
+                - cell "LG Mobile" [ref=e995]:
+                  - link "LG Mobile" [ref=e996] [cursor=pointer]:
+                    - /url: /lg-mobile-phones-store
+              - row "Nokia Mobile Iqoo Mobile Panasonic Mobile Samsung Mobile Micromax Mobile" [ref=e997]:
+                - cell "Nokia Mobile" [ref=e998]:
+                  - link "Nokia Mobile" [ref=e999] [cursor=pointer]:
+                    - /url: /nokia-mobile-phones-store
+                - cell "Iqoo Mobile" [ref=e1000]:
+                  - link "Iqoo Mobile" [ref=e1001] [cursor=pointer]:
+                    - /url: /mobiles/iqoo~brand/pr?sid=tyy%2C4io
+                - cell "Panasonic Mobile" [ref=e1002]:
+                  - link "Panasonic Mobile" [ref=e1003] [cursor=pointer]:
+                    - /url: /panasonic-mobile-phones-store
+                - cell "Samsung Mobile" [ref=e1004]:
+                  - link "Samsung Mobile" [ref=e1005] [cursor=pointer]:
+                    - /url: /samsung-mobile-store
+                - cell "Micromax Mobile" [ref=e1006]:
+                  - link "Micromax Mobile" [ref=e1007] [cursor=pointer]:
+                    - /url: /micromax-mobile-phones-store
+              - row "Oneplus Mobile Gionee Mobile Vivo Mobile Nothing Phone Oppo Mobile" [ref=e1008]:
+                - cell "Oneplus Mobile" [ref=e1009]:
+                  - link "Oneplus Mobile" [ref=e1010] [cursor=pointer]:
+                    - /url: /mobiles/oneplus~brand/pr?sid=tyy,4io
+                - cell "Gionee Mobile" [ref=e1011]:
+                  - link "Gionee Mobile" [ref=e1012] [cursor=pointer]:
+                    - /url: /gionee-mobile-phones-store
+                - cell "Vivo Mobile" [ref=e1013]:
+                  - link "Vivo Mobile" [ref=e1014] [cursor=pointer]:
+                    - /url: /vivo-mobile-phones-store
+                - cell "Nothing Phone" [ref=e1015]:
+                  - link "Nothing Phone" [ref=e1016] [cursor=pointer]:
+                    - /url: /mobiles/nothing~brand/pr?sid=tyy%2C4io
+                - cell "Oppo Mobile" [ref=e1017]:
+                  - link "Oppo Mobile" [ref=e1018] [cursor=pointer]:
+                    - /url: /oppo-mobile-phones-store
+          - list
+          - heading "Mobiles By Screen Sizes:" [level=2] [ref=e1019]
+          - table [ref=e1020]:
+            - rowgroup [ref=e1021]:
+              - row "4 Inch Mobiles 5.5 inch Mobiles 4.5 Inch Mobiles 5.2 Inch Mobiles" [ref=e1022]:
+                - cell "4 Inch Mobiles" [ref=e1023]:
+                  - link "4 Inch Mobiles" [ref=e1024] [cursor=pointer]:
+                    - /url: /mobiles/~4-inch-mobiles/pr?sid=tyy,4io
+                - cell "5.5 inch Mobiles" [ref=e1025]:
+                  - link "5.5 inch Mobiles" [ref=e1026] [cursor=pointer]:
+                    - /url: /mobiles/~5-5-inch-mobiles/pr?sid=tyy,4io
+                - cell "4.5 Inch Mobiles" [ref=e1027]:
+                  - link "4.5 Inch Mobiles" [ref=e1028] [cursor=pointer]:
+                    - /url: /mobiles/~4-5-inch-mobiles/pr?sid=tyy,4io
+                - cell "5.2 Inch Mobiles" [ref=e1029]:
+                  - link "5.2 Inch Mobiles" [ref=e1030] [cursor=pointer]:
+                    - /url: /mobiles/~5-2-inch-mobiles/pr?sid=tyy,4io
+              - row "3.5 inch Mobiles 6 inch Mobiles 3 inch Mobiles 5 inch Mobiles" [ref=e1031]:
+                - cell "3.5 inch Mobiles" [ref=e1032]:
+                  - link "3.5 inch Mobiles" [ref=e1033] [cursor=pointer]:
+                    - /url: /mobiles/~3-5-inch-mobiles/pr?sid=tyy%2C4io
+                - cell "6 inch Mobiles" [ref=e1034]:
+                  - link "6 inch Mobiles" [ref=e1035] [cursor=pointer]:
+                    - /url: /mobiles/~6-inch-mobiles/pr?sid=tyy,4io
+                - cell "3 inch Mobiles" [ref=e1036]:
+                  - link "3 inch Mobiles" [ref=e1037] [cursor=pointer]:
+                    - /url: /mobiles/~3-inch-mobiles/pr?sid=tyy,4io
+                - cell "5 inch Mobiles" [ref=e1038]:
+                  - link "5 inch Mobiles" [ref=e1039] [cursor=pointer]:
+                    - /url: /mobiles/~5-inch-mobiles/pr?sid=tyy,4io
+          - heading "Mobiles By RAM:" [level=2] [ref=e1040]
+          - table [ref=e1041]:
+            - rowgroup [ref=e1042]:
+              - row "3 GB RAM Mobiles 2 GB RAM Mobiles 4 GB RAM Mobiles 1 GB RAM Mobiles" [ref=e1043]:
+                - cell "3 GB RAM Mobiles" [ref=e1044]:
+                  - link "3 GB RAM Mobiles" [ref=e1045] [cursor=pointer]:
+                    - /url: /mobiles/~3-gb-ram-mobiles/pr?sid=tyy,4io
+                - cell "2 GB RAM Mobiles" [ref=e1046]:
+                  - link "2 GB RAM Mobiles" [ref=e1047] [cursor=pointer]:
+                    - /url: /mobiles/~2-gb-ram-mobiles/pr?sid=tyy,4io
+                - cell "4 GB RAM Mobiles" [ref=e1048]:
+                  - link "4 GB RAM Mobiles" [ref=e1049] [cursor=pointer]:
+                    - /url: /mobiles/~4-gb-ram-mobiles/pr?sid=tyy,4io
+                - cell "1 GB RAM Mobiles" [ref=e1050]:
+                  - link "1 GB RAM Mobiles" [ref=e1051] [cursor=pointer]:
+                    - /url: /mobiles/~1-gb-ram-mobiles/pr?sid=tyy%2C4io
+              - row "6 GB RAM Mobiles" [ref=e1052]:
+                - cell "6 GB RAM Mobiles" [ref=e1053]:
+                  - link "6 GB RAM Mobiles" [ref=e1054] [cursor=pointer]:
+                    - /url: /mobiles/~6-gb-ram-mobiles/pr?sid=tyy,4io
+          - heading "Apple iPhones" [level=2] [ref=e1055]
+          - table [ref=e1056]:
+            - rowgroup [ref=e1057]:
+              - row "iPhone 17 iPhone Air iPhone 17 Pro iPhone 17 Pro Max" [ref=e1058]:
+                - cell "iPhone 17" [ref=e1059]:
+                  - link "iPhone 17" [ref=e1060] [cursor=pointer]:
+                    - /url: /apple-iphone-17-black-256-gb/p/itm6eb39da622cdd
+                - cell "iPhone Air" [ref=e1061]:
+                  - link "iPhone Air" [ref=e1062] [cursor=pointer]:
+                    - /url: /apple-iphone-air-space-black-256-gb/p/itm98092611013dd
+                - cell "iPhone 17 Pro" [ref=e1063]:
+                  - link "iPhone 17 Pro" [ref=e1064] [cursor=pointer]:
+                    - /url: /apple-iphone-17-pro-cosmic-orange-256-gb/p/itm76fe37ca9ea8c
+                - cell "iPhone 17 Pro Max" [ref=e1065]:
+                  - link "iPhone 17 Pro Max" [ref=e1066] [cursor=pointer]:
+                    - /url: /apple-iphone-17-pro-max-cosmic-orange-256-gb/p/itmd38e30731883a
+              - row "iPhone 16 iPhone 16 Plus iPhone 16 Pro iPhone 16 Pro Max" [ref=e1067]:
+                - cell "iPhone 16" [ref=e1068]:
+                  - link "iPhone 16" [ref=e1069] [cursor=pointer]:
+                    - /url: /apple-iphone-16-white-128-gb/p/itm7c0281cd247be
+                - cell "iPhone 16 Plus" [ref=e1070]:
+                  - link "iPhone 16 Plus" [ref=e1071] [cursor=pointer]:
+                    - /url: /apple-iphone-16-plus-teal-128-gb/p/itmfa939eebe8adf
+                - cell "iPhone 16 Pro" [ref=e1072]:
+                  - link "iPhone 16 Pro" [ref=e1073] [cursor=pointer]:
+                    - /url: /apple-iphone-16-pro-white-titanium-128-gb/p/itm50f720fdcec51
+                - cell "iPhone 16 Pro Max" [ref=e1074]:
+                  - link "iPhone 16 Pro Max" [ref=e1075] [cursor=pointer]:
+                    - /url: /apple-iphone-16-pro-max-natural-titanium-256-gb/p/itm05ad8e674782a
+              - row "iPhone 15 iPhone 15 Plus iPhone 15 Pro iPhone 15 Pro Max" [ref=e1076]:
+                - cell "iPhone 15" [ref=e1077]:
+                  - link "iPhone 15" [ref=e1078] [cursor=pointer]:
+                    - /url: /apple-iphone-15-black-128-gb/p/itm6ac6485515ae4
+                - cell "iPhone 15 Plus" [ref=e1079]:
+                  - link "iPhone 15 Plus" [ref=e1080] [cursor=pointer]:
+                    - /url: /apple-iphone-15-plus-blue-128-gb/p/itm4022c14383050
+                - cell "iPhone 15 Pro" [ref=e1081]:
+                  - link "iPhone 15 Pro" [ref=e1082] [cursor=pointer]:
+                    - /url: /apple-iphone-15-pro-blue-titanium-128-gb/p/itmcba9124f132a8
+                - cell "iPhone 15 Pro Max" [ref=e1083]:
+                  - link "iPhone 15 Pro Max" [ref=e1084] [cursor=pointer]:
+                    - /url: /apple-iphone-15-pro-max-black-titanium-256-gb/p/itmd170cfc1dec9e
+              - row "iPhone 14 iPhone 14 Plus iPhone 14 Pro iPhone 14 Pro Max" [ref=e1085]:
+                - cell "iPhone 14" [ref=e1086]:
+                  - link "iPhone 14" [ref=e1087] [cursor=pointer]:
+                    - /url: /apple-iphone-14-blue-128-gb/p/itmdb77f40da6b6d
+                - cell "iPhone 14 Plus" [ref=e1088]:
+                  - link "iPhone 14 Plus" [ref=e1089] [cursor=pointer]:
+                    - /url: /apple-iphone-14-plus-blue-128-gb/p/itmac8385391b02b
+                - cell "iPhone 14 Pro" [ref=e1090]:
+                  - link "iPhone 14 Pro" [ref=e1091] [cursor=pointer]:
+                    - /url: /apple-iphone-14-pro-silver-128-gb/p/itm6933eb5fb30fb
+                - cell "iPhone 14 Pro Max" [ref=e1092]:
+                  - link "iPhone 14 Pro Max" [ref=e1093] [cursor=pointer]:
+                    - /url: /apple-iphone-14-pro-max-deep-purple-128-gb/p/itm5256789ae40c7
+              - row "iPhone 13 iPhone 13 Mini iPhone 13 Pro iPhone 13 Pro Max" [ref=e1094]:
+                - cell "iPhone 13" [ref=e1095]:
+                  - link "iPhone 13" [ref=e1096] [cursor=pointer]:
+                    - /url: /apple-iphone-13-pink-128-gb/p/itm6e30c6ee045d2
+                - cell "iPhone 13 Mini" [ref=e1097]:
+                  - link "iPhone 13 Mini" [ref=e1098] [cursor=pointer]:
+                    - /url: /apple-iphone-13-mini-starlight-128-gb/p/itmcb65606f21fd3
+                - cell "iPhone 13 Pro" [ref=e1099]:
+                  - link "iPhone 13 Pro" [ref=e1100] [cursor=pointer]:
+                    - /url: /apple-iphone-13-pro-silver-128-gb/p/itm273b7a40dcf8b
+                - cell "iPhone 13 Pro Max" [ref=e1101]:
+                  - link "iPhone 13 Pro Max" [ref=e1102] [cursor=pointer]:
+                    - /url: /apple-iphone-13-pro-max-sierra-blue-128-gb/p/itm5ede69d71530a
+              - row "iPhone 12 iPhone 12 Mini iPhone 12 Pro iPhone 12 Pro Max" [ref=e1103]:
+                - cell "iPhone 12" [ref=e1104]:
+                  - link "iPhone 12" [ref=e1105] [cursor=pointer]:
+                    - /url: /apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79
+                - cell "iPhone 12 Mini" [ref=e1106]:
+                  - link "iPhone 12 Mini" [ref=e1107] [cursor=pointer]:
+                    - /url: /apple-iphone-12-mini-blue-64-gb/p/itm2883104474448
+                - cell "iPhone 12 Pro" [ref=e1108]:
+                  - link "iPhone 12 Pro" [ref=e1109] [cursor=pointer]:
+                    - /url: /apple-iphone-12-pro-graphite-128-gb/p/itm03e5f2595d843
+                - cell "iPhone 12 Pro Max" [ref=e1110]:
+                  - link "iPhone 12 Pro Max" [ref=e1111] [cursor=pointer]:
+                    - /url: /apple-iphone-12-pro-max-silver-128-gb/p/itm5a51ba742a17e
+          - text: Looking to upgrade? Easily
+          - link "sell old phone" [ref=e1112] [cursor=pointer]:
+            - /url: /reset-sell-store
+          - text: and switch to the latest models on Flipkart
+          - link "sale" [ref=e1113] [cursor=pointer]:
+            - /url: /offers-store
+          - text: .
+      - generic [ref=e1117]:
+        - heading "Question and Answers" [level=2] [ref=e1118]
+        - list [ref=e1119]:
+          - listitem [ref=e1120]:
+            - generic [ref=e1122]: Q.What are the different display options available on smartphones?
+            - generic [ref=e1124]: A.Capacitive touchscreen LCD, IPS-LCD, AMOLED, OLED, and Super AMOLED are the different display types available in smart mobile phones.
+          - listitem [ref=e1125]:
+            - generic [ref=e1127]: Q.What are the best display resolutions available on smartphones?
+            - generic [ref=e1129]: A.You can find smartphones with HD, FHD, and HD+ resolutions. The higher the display resolution, the sharper the displayed content will appear on the screen.
+          - listitem [ref=e1130]:
+            - generic [ref=e1132]: Q.What are the best quad-camera mobile phones available in India?
+            - generic [ref=e1134]: A.Redmi Note 10S, Samsung Galaxy M32, POCO X3 Pro, vivo X70 Pro, and realme 8 are some of the best mobile phones with a quad-camera setup.
+          - listitem [ref=e1135]:
+            - generic [ref=e1137]: Q.What is the benefit of fast charging in mobile phones?
+            - generic [ref=e1139]: A.Fast charging enables the mobile phone to charge faster than the current charging standard, and it can significantly reduce the time you would typically require to charge your phone.
+          - listitem [ref=e1140]:
+            - generic [ref=e1142]: Q.What are some important features to consider when buying a mobile phone?
+            - generic [ref=e1144]: A.Before purchasing a mobile phone, you must ensure that you consider features and specifications such as the battery capacity, screen size, display type, camera quality, operating system, and SIM compatibility to ensure you purchase a variant that meets all your requirements.
+          - listitem [ref=e1145]:
+            - generic [ref=e1147]: Q.What are the latest mobile models in 2026?
+            - generic [ref=e1149]:
+              - text: A.
+              - paragraph [ref=e1150]: iPhone 17, iPhone Air, iPhone 17 Pro, iPhone 17 Pro Max, realme 16 pro, realme 16 pro plus, oppo reno 15, oppo reno 15 pro, oppo reno 15 pro mini, poco m8 5g, tecno spark go 3, motorola signature, vivo X200T, realme P4 Power
+          - listitem [ref=e1151]:
+            - generic [ref=e1153]: Q.Which are the best mobile phone brands available in India?
+            - generic [ref=e1155]: A.Samsung, iPhone, Redmi, Realme, and POCO are some of the best mobile phone brands available in the Indian market.
+          - listitem [ref=e1156]:
+            - generic [ref=e1158]: Q.What is the minimum RAM capacity needed for a smartphone?
+            - generic [ref=e1160]: A.4 GB of RAM is considered the bare minimum for a smartphone
+          - listitem [ref=e1161]:
+            - generic [ref=e1163]: Q.What influences the speed of a mobile phone?
+            - generic [ref=e1165]: A.The number of processor cores and the higher clock speed of the processor cores can influence the speed of the mobile phone.
+          - listitem [ref=e1166]:
+            - generic [ref=e1168]: Q.What are the best feature phones available in India?
+            - generic [ref=e1170]: A.Nokia 6310, Nokia 105 SS 2021, Samsung Guru Music 2, and Samsung Metro 350 are some of the best feature phones available in India.
+          - listitem [ref=e1171]:
+            - generic [ref=e1173]: Q.How much storage capacity can I expect in a mobile phone?
+            - generic [ref=e1175]: A.Most smartphones come with an inbuilt storage capacity of 32 GB, 64 GB, and 128 GB. A few high-end models also feature 256 GB or 512 GB of storage capacity.
+      - generic [ref=e1176]:
+        - generic [ref=e1177]:
+          - generic [ref=e1178]:
+            - generic [ref=e1179]: ABOUT
+            - link "Contact Us" [ref=e1180] [cursor=pointer]:
+              - /url: /helpcentre?otracker=footer_navlinks
+            - link "About Us" [ref=e1181] [cursor=pointer]:
+              - /url: https://corporate.flipkart.net/corporate-home
+            - link "Careers" [ref=e1182] [cursor=pointer]:
+              - /url: https://flipkart.turbohire.co/careerpage/4d757ba0-3d57-448a-b82c-238ed87ac90f
+            - link "Flipkart Stories" [ref=e1183] [cursor=pointer]:
+              - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+            - link "Press" [ref=e1184] [cursor=pointer]:
+              - /url: http://stories.flipkart.com/category/top-stories/news/
+            - link "Corporate Information" [ref=e1185] [cursor=pointer]:
+              - /url: /corporate-information
+          - generic [ref=e1186]:
+            - generic [ref=e1187]: GROUP COMPANIES
+            - link "Myntra" [ref=e1188] [cursor=pointer]:
+              - /url: https://www.myntra.com/
+            - link "Cleartrip" [ref=e1189] [cursor=pointer]:
+              - /url: https://www.cleartrip.com/
+            - link "Shopsy" [ref=e1190] [cursor=pointer]:
+              - /url: https://www.shopsy.in/
+          - generic [ref=e1191]:
+            - generic [ref=e1192]: HELP
+            - link "Payments" [ref=e1193] [cursor=pointer]:
+              - /url: /pages/payments
+            - link "Shipping" [ref=e1194] [cursor=pointer]:
+              - /url: /pages/shipping
+            - link "Cancellation & Returns" [ref=e1195] [cursor=pointer]:
+              - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+            - link "FAQ" [ref=e1196] [cursor=pointer]:
+              - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+          - generic [ref=e1197]:
+            - generic [ref=e1198]: CONSUMER POLICY
+            - link "Cancellation & Returns" [ref=e1199] [cursor=pointer]:
+              - /url: /pages/returnpolicy?otracker=footer_navlinks
+            - link "Terms Of Use" [ref=e1200] [cursor=pointer]:
+              - /url: /pages/terms?otracker=footer_navlinks
+            - link "Security" [ref=e1201] [cursor=pointer]:
+              - /url: /pages/paymentsecurity?otracker=footer_navlinks
+            - link "Privacy" [ref=e1202] [cursor=pointer]:
+              - /url: /pages/privacypolicy?otracker=footer_navlinks
+            - link "Sitemap" [ref=e1203] [cursor=pointer]:
+              - /url: /sitemap?otracker=footer_navlinks
+            - link "Grievance Redressal" [ref=e1204] [cursor=pointer]:
+              - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+            - link "EPR Compliance" [ref=e1205] [cursor=pointer]:
+              - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+            - link "FSSAI Food Safety Connect App" [ref=e1206] [cursor=pointer]:
+              - /url: https://fssai.gov.in/cms/food-safety-connect.php
+          - generic [ref=e1208]:
+            - generic [ref=e1209]: "Mail Us:"
+            - generic [ref=e1212]:
+              - paragraph [ref=e1213]: Flipkart Internet Private Limited,
+              - paragraph [ref=e1214]: Buildings Alyssa, Begonia &
+              - paragraph [ref=e1215]: Clove Embassy Tech Village,
+              - paragraph [ref=e1216]: Outer Ring Road, Devarabeesanahalli Village,
+              - paragraph [ref=e1217]: Bengaluru, 560103,
+              - paragraph [ref=e1218]: Karnataka, India
+            - generic [ref=e1219]: Social
+            - generic [ref=e1220]:
+              - link [ref=e1222] [cursor=pointer]:
+                - /url: https://www.facebook.com/flipkart
+                - img [ref=e1223]
+              - link [ref=e1225] [cursor=pointer]:
+                - /url: https://www.twitter.com/flipkart
+                - img [ref=e1226]
+              - link [ref=e1228] [cursor=pointer]:
+                - /url: https://www.youtube.com/flipkart
+                - img [ref=e1229]
+              - link [ref=e1231] [cursor=pointer]:
+                - /url: https://www.instagram.com/flipkart
+                - img [ref=e1232]
+          - generic [ref=e1234]:
+            - generic [ref=e1235]: "Registered Office Address:"
+            - generic [ref=e1238]:
+              - paragraph [ref=e1239]: Flipkart Internet Private Limited,
+              - paragraph [ref=e1240]: Buildings Alyssa, Begonia &
+              - paragraph [ref=e1241]: Clove Embassy Tech Village,
+              - paragraph [ref=e1242]: Outer Ring Road, Devarabeesanahalli Village,
+              - paragraph [ref=e1243]: Bengaluru, 560103,
+              - paragraph [ref=e1244]: Karnataka, India
+              - paragraph [ref=e1245]: "CIN : U51109KA2012PTC066107"
+              - paragraph [ref=e1246]:
+                - text: "Telephone:"
+                - link "044-45614700" [ref=e1247] [cursor=pointer]:
+                  - /url: tel:044-45614700
+                - text: /
+                - link "044-67415800" [ref=e1248] [cursor=pointer]:
+                  - /url: tel:044-67415800
+        - generic [ref=e1250]:
+          - generic [ref=e1251]:
+            - img [ref=e1252]
+            - link "Become a Seller" [ref=e1253] [cursor=pointer]:
+              - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+          - generic [ref=e1254]:
+            - img [ref=e1255]
+            - link "Advertise" [ref=e1256] [cursor=pointer]:
+              - /url: https://brands.flipkart.com
+          - generic [ref=e1257]:
+            - img [ref=e1258]
+            - link "Gift Cards" [ref=e1259] [cursor=pointer]:
+              - /url: /the-gift-card-store?otracker=footer_navlinks
+          - generic [ref=e1260]:
+            - img [ref=e1261]
+            - link "Help Center" [ref=e1262] [cursor=pointer]:
+              - /url: /helpcentre?otracker=footer_navlinks
+          - generic [ref=e1263]: © 2007-2026 Flipkart.com
+          - img [ref=e1264]
+```

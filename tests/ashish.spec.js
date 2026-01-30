@@ -11,7 +11,7 @@ test.beforeAll( async()=>
     expect(( loginresponce).ok).toBeTruthy();
     const jsonresponce=await loginresponce.json();
     token=jsonresponce.token;
-    console.log(token);
+    //console.log(token);
 
 });
 
@@ -19,7 +19,13 @@ test.only('first', async function({page})
 {
  await page.addInitScript(value=>{window.localStorage.setItem('token',value)}, token);
  await page.goto("https://rahulshettyacademy.com/client");
- await page.pause();
+ 
 });
 
 //test111qgit stdfdsfsd
+
+test.only('failed', async function({})
+{
+  test.fail();
+  expect(1).toBe(1);
+});

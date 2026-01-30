@@ -1,5 +1,7 @@
 // @ts-check
 import { defineConfig, devices } from '@playwright/test';
+import { report } from 'node:process';
+import { junit } from 'node:test/reporters';
 
 /**
  * Read environment variables from file.
@@ -16,19 +18,24 @@ export default defineConfig({
   testDir: './tests',
   timeout: 35000,
   expect:{timeout: 5000   },
-  reporter: 'html',
+  //reporter: 'html',
+  reporter: [['junit', { outputFile: 'results.xml' }  ],['allure-playwright']],
   retries: 1,
 
   projects: [
     
-    {
-      name: 'firefox',
-      use: { browserName: 'firefox', headless: false, screenshot: 'on', trace: 'on' },
-    },
+    // {
+    //   name: 'firefox',
+    //   use: { browserName: 'firefox', headless: true, screenshot: 'on', trace: 'on' },
+    // },
     {
       name: 'chromium',
-      use: { browserName: 'chromium', headless: false, screenshot: 'on', trace: 'on' },
-    },
+      use: { browserName: 'chromium', headless: false, screenshot: 'on', trace: 'on' , viewport: null, launchOptions: 
+        {
+      args: ['--start-maximized']},
+    }}
   ],
 });
+
+
 

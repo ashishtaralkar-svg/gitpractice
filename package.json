@@ -14,10 +14,13 @@
   "devDependencies": {
     "@playwright/mcp": "^0.0.55",
     "@playwright/test": "^1.58.0",
-    "@types/node": "^25.0.3"
+    "@types/node": "^25.0.3",
+    "allure-playwright": "^3.4.5"
   },
   "dependencies": {
     "ashish": "^1.0.1",
-    "exceljs": "^4.4.0"
+    "csv": "^6.4.1",
+    "exceljs": "^4.4.0",
+    "parse": "^8.0.3"
   }
 }

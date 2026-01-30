@@ -1,0 +1,11 @@
+{
+  args: {},
+  headers: {
+    host: 'postman-echo.com',
+    'accept-encoding': 'gzip, br',
+    accept: '*/*',
+    'x-forwarded-proto': 'https',
+    'user-agent': 'Playwright/1.58.0 (x64; windows 10.0) node/24.12'
+  },
+  url: 'https://postman-echo.com/get'
+}
